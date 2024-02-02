@@ -5,7 +5,7 @@ title: Schedule
 
 ---
 
-![](/assets/images/goodhero.webp =250x)
+<img src="/assets/images/goodhero.webp" alt="robot archivist" width="200"/>
 
 # Syllabus Week by Week
 

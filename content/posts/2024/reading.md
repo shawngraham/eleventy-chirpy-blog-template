@@ -1,7 +1,7 @@
 ---
 title: Reading Like A Predator
 date: 2024-01-02
-image: /assets/images/2021/coolimage.jpg
+image: /assets/images/emptyshelves2.png
 ---
 
 ## No one ever taught me this
