@@ -28,7 +28,7 @@ What follows draws on my own explorations, _Future Text_, _Writing With Robots_,
 
 ## Course Description
 
-There is a lot of hype around 'ai'. Note the scare quotes. This class takes the approach that the current crop of large language models are actually representations of culture. Of history. Whose culture? Whose history? What is a large language model, how does it work, and why should we, as historians, care about those inner workings? Who could a large language model hurt? Who could it help? How? Cui bono? Can these things help us do better history? What constitutes good history in an age of rapidly deployed and commercialized 'ai'? What do we need to know?
+There is a lot of hype around 'ai'. Note the scare quotes. This class takes the approach that the current crop of AI (mostly, but not exclusively, large language models) are actually representations of culture. Of history. Whose culture? Whose history? What is a large language model, how does it work, and why should we, as historians, care about those inner workings? Who could a large language model, a vision model, an 'ai' as popularly understood, hurt? Who could it help? How? _Cui bono_ amirite? Can these things help us do better history? What constitutes good history in an age of rapidly deployed and commercialized 'ai'? What do we need to know?
 
 I have nothing but questions for you. I will provide as much context as I can. We will, together, write a handbook to good history with large language models by the end of this course. The course will engage with the history, science, and culture of artificial intelligence research and commercialization, broadly understood. It is but a starting point, not the final word, on this subject.
 Learning Goals
