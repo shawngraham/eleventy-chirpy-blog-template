@@ -4,6 +4,9 @@ layout: page.njk
 title: Why
 ---
 
+<img src="/assets/images/robot2.webp" alt="robot archivist" width="200"/>
+
+
 ## Prologue
 
 I began working on this course during my 2023/24 sabbatical. I duly added materials as I found them to my Zotero library, I read and played and experimented. And I found that everything kept changing...

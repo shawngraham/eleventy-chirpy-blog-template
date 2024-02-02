@@ -4,6 +4,9 @@ layout: page.njk
 title: About
 ---
 
+<img src="/assets/images/robot3.webp" alt="robot archivist" width="200"/>
+
+
 A full year seminar at Carleton U, 2024-25
 
 Open to History students, Digital Humanities Minors, and others with permission.

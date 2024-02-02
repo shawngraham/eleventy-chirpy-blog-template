@@ -5,7 +5,7 @@ title: Schedule
 
 ---
 
-![](/assets/images/goodhero.webp)
+![](/assets/images/goodhero.webp =250x)
 
 # Syllabus Week by Week
 

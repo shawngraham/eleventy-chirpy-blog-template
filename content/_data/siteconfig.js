@@ -2,7 +2,7 @@ require("dotenv").config();
 
 module.exports = {
     // Website title, shown in left sidebar and in page title
-    title: "{ HIST4805 Artificial Intelligence in/and History }",
+    title: "HIST4805 Artificial Intelligence in/and History",
     // Site URL to generate absolute URLs. Used across the board.
     url: process.env.URL || "http://localhost:8080",
     // Profile image for left sidebar
