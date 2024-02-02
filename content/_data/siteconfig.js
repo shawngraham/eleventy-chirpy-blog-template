@@ -8,7 +8,7 @@ module.exports = {
     // Profile image for left sidebar
     image: "/assets/images/sidebar_profile.jpg",
     // Image alt text for left sidebar
-    imageAlt: "René and Einstein",
+    imageAlt: "CU Logo",
     // Author name, shown in left sidebar, and used in JSON-LD
     author: "Prof. Shawn Graham",
     // Site description, shown below site image (optional)
