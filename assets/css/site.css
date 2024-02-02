@@ -347,16 +347,16 @@ nav.toc ol ol a.active {
 /* Collection pagination */
 
 ul.pagination div {
-    @apply h-8 w-8 border-1 dark:text-gray-400 bg-white dark:bg-gray-700 hover:bg-indigo-800 dark:hover:bg-gray-600 border-gray-600 hover:text-white rounded-full text-center;
+    @apply h-8 w-8 border-1 dark:text-gray-400 bg-white dark:bg-gray-700 hover:bg-red-800 dark:hover:bg-gray-600 border-gray-600 hover:text-white rounded-full text-center;
 }
 
 html:not(.dark) ul.pagination div.active {
-    @apply text-white bg-indigo-800;
+    @apply text-white bg-red-800;
     box-shadow: 0 0 8px 0 rgba(55, 48, 163);
 }
 
 html[class="dark"] ul.pagination div.active {
-    @apply bg-indigo-900;
+    @apply bg-red-900;
 }
 
 ::placeholder {
