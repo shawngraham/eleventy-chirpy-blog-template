@@ -1,6 +1,6 @@
 ---
 title: Reading Like A Predator
-date: 2024-02-02
+date: 2024-01-02
 image: /assets/images/2021/coolimage.jpg
 ---
 

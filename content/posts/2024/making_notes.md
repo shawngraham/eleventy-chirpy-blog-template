@@ -1,6 +1,6 @@
 ---
 title: Making Notes
-date: 2021-01-24
+date: 2024-01-02
 image: /assets/images/2021/coolimage.jpg
 ---
 
