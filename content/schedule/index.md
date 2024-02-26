@@ -7,7 +7,11 @@ title: Schedule
 
 <img src="/assets/images/goodhero.webp" alt="robot archivist" width="200"/>
 
-# General Structure of Any Given Session
+# Schedule
+
+On this page you'll find the schedule, readings, links to materials, and general instructions.
+
+## General Structure of Any Given Session
 
 Each session will open with twenty to thirty minutes of **freewriting**. Try to identify the things that perplexed you in the readings before you came to class, and that you would like to talk about now. Revisit what you wrote in previous classes to connect with what you're thinking now. These pieces of writing will be collected each week into a [digital garden](https://maggieappleton.com/garden-history). At the end of this term we will use this writing in conjunction with an AI to examine what it is we, as a group, think about AI. 
 
@@ -17,7 +21,7 @@ With weeks where there are readings, there will be designated students to take u
 
 ---
 
-# Schedule
+# Part One
 
 ## Week 1 The Dream of AI
 
@@ -133,7 +137,7 @@ What kinds of questions might this approach be useful for? Find a corpus of mate
 
 Last week, you selected your own data and trained your own LLM to explore and experiment with what patterns you might find, and to think through what it might mean for historical research. This week, we'll work backwards from images to try to understand the underlying dataset. Can we, as Eryk Salvaggio has argued, understand them as *infographics*? And if so, what might we learn about the representation of Canadian history in these models?
 
-Following his [loose methodology](https://cyberneticforests.substack.com/p/how-to-read-an-ai-image) select moments from Canadian history and let's work out what is going on in the dataset that powers [Craiyon](https://www.craiyon.com/). 
+Following his [loose methodology](https://cyberneticforests.substack.com/p/how-to-read-an-ai-image) select moments from Canadian history and let's work out what is going on in the dataset that powers [Craiyon](https://www.craiyon.com/) or [NightCafe](https://creator.nightcafe.studio/studio). Other options are possible. Do not pay for anything. 
  
 Again, document everything.
 
