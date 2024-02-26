@@ -35,9 +35,9 @@ Underwood, Ted. "Mapping the Latent Spaces of Culture" Startwords 3: Parrots. Au
 
 ---
 
-## Week 2 Ned Ludd and Fellow Travellers
+## Week 2 Flavours of AI
 
-In this week, we'll look at the Luddites, and consider the recent deployment of AI across various industries, and also, the hidden humans of AI.
+...culminating in neural networks, transformers, and attention. We'll start with the cyberneticists. We'll talk about 'intelligence' and what a problem _that_ is. 
 
 ---
 
@@ -63,11 +63,12 @@ Emily Bender, "Thought experiment in the National Library of Thailand. Medium, M
 
 ---
 
-## Week 4 Phase Transition, 2012 - 2022
+## Week 4 Ned Ludd and Fellow Travellers
 
-Neural networks, transformers, and attention
+In this week, we'll look at the Luddites, and consider the recent deployment of AI across various industries, and also, the hidden humans of AI.
 
 ---
+
 
 ## Week 5 The OpenAI Civil War of 4.20 pm November 17 2023 - 1.14 am November 22 2023
 
@@ -77,57 +78,71 @@ Making sure we know who will present what in weeks 5 - 8.
 
 ---
 
-## Week 6 Student Presentations 
+## Week 6 The corpuses/corpses of AI
 
-General Theme: Deeper History of AI
-
----
-
-## Week 7 Student Presentations
-
-General Theme: Current **Real** Harms of AI
+Collections, copyright, intellectural property, labour: the _actual_ dangers of AI
 
 ---
 
-## Week 8 Student Presentations
-
-General Theme: AI and Historians/Archaeologists
+## Week 7 Current Deployments of AI in the GLAM sector
 
 ---
 
-## Week 9 Student Presentations
+** FALL READING WEEK ** 
 
-General Theme: Current **useful** deployments of AI
+Use this time to get acquainted with what comes next. In theses 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. 
 
----
+It is **the process** which matters, not the final result of 'completion' of a task. The best work will exhibit critical curiosity about each stage in the process, and will chase down the implications. 
 
-## Week 10 Building an Image Recognition App
+You will document your process, your findings, your questions, your concerns, your roadblocks. At all times, you'll be thinking about the bigger picture: what does this mean for the _doing_ of history? What does this mean for the work of a historian? What does this imply for public engagement with history? 
 
-Wherein we will retrain CLIP
-
----
-
-## Week 11 Building and Querying a Knowledge Graph
-
-Wherein we'll use Ollama and Zephyr and Jupyter Notebooks
+You'll submit your documentation to me each week as per usual as textfiles using the markdown. I will plant these in our digital garden.
 
 ---
 
-## Week 12 Building a Chat Bot with our own Knowledge Base
+## Week 8 Hands ON: Training your own GPT 2 model
 
-Wherein we'll use LLM and Datasette, and explore some of the problems of using LLMs for 'research' 
+Using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. 
+
+What kinds of questions might this approach be useful for? Find a corpus of materials. Document your choices. Document your training. Document your results.
 
 ---
 
-## Week 13 Building a Research Assistant
+## Week 9 Hands ON: Reading an AI Image
 
-Wherein we'll use Langchain and GPT-Researcher to build a research assistant for the Chronicling America newspaper database.
+Last week, you selected your own data and trained your own LLM to explore and experiment with what patterns you might find, and to think through what it might mean for historical research. This week, we'll work backwards from images to try to understand the underlying dataset. Can we, as Eryk Salvaggio has argued, understand them as *infographics*? And if so, what might we learn about the representation of Canadian history in these models?
+
+Following his [loose methodology](https://cyberneticforests.substack.com/p/how-to-read-an-ai-image) select moments from Canadian history and let's work out what is going on in the dataset that powers [Craiyon](https://www.craiyon.com/). 
+ 
+Again, document everything.
+
+---
+
+## Week 10 Hands ON: CLIP 
+
+We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again.). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
+
+---
+
+## Week 11 Hands ON: LLMs as Natural Language Text Processors
+
+We'll use OCR software and the [LLM](https://llm.datasette.io) package again to transcribe images of text and handwriting, then correct errors. The LLM will handle error correction and then organizing into structured data.
+
+Or we'll try, at least.
+
+---
+
+## Week 12 Hands ON: LLM as a Research Assistant
+
+We'll look at the GPT-Researcher project, and then develop our own version (again, using the LLM package), aimed at the Chronicling America newspaper database.
 
 ---
 
 # Part Two (Winter 2025)
 
-We'll meet every other week in a workshop format. You will arrive in the first session having already built a few things. Over the holiday you should have been sketching out ideas about what you want to do.
+Precise meeting dates are to be determined. Meeting 1 _will_ happen during the first week of the winter term.
+
+You will arrive in the first session having already built a few things. Over the holiday you should have been sketching out ideas about what you want to do.
 
 ## Meeting 1: What is an ethical and useful thing to do with AI in/for History?
 This will be an unconference style workshop. You'll throw ideas on the board about what you want to do. There'll be plenty of work to go around; you'll figure out broadly a topic/approach you want to explore, and come together with other students who want to explore the same ideas. The desired outcome here is that three to five teams will emerge. Ideally each team should have someone on it who is game for getting into the digital weeds (ie, at least one of you should be prepared to do a bit of the 'coding', keeping in mind the things I will have been saying the entire time about what that actually _means_). You will leave the meeting fired up about what you want to understand. 
@@ -135,7 +150,7 @@ This will be an unconference style workshop. You'll throw ideas on the board abo
 ---
 
 ## Meeting 2: Backwards Design
-In this meeting, you'll present mockups to the group of where you think you'll _end up_. But you will not present your _own_ work. Rather, you will have read another group's materials and your group will present those instead. You will present what you think the end result of their ideal project implementation will be: we start at the end, and then design backwards to figure out how to get there. Groups whose work is being presented will listen quietly and take notes. This exercise will reveal to you things that you may have missed because you are too close to your project. After the presentation, each group will identify the three main things they've learned from hearing others' interpretation of the work, and will lay out their initial ideas on how to address these.
+For this meeting, you'll have ready some mockups for the group of what you want to achieve. But you will not present your _own_ work. Rather, we'll spend the first portion of the class looking at one of the other teams' work. You will read their materials and your group will present those instead. You will present what you think the end result of their ideal project implementation will be: we start at the end, and then design backwards to figure out how to get there. Groups whose work is being presented will listen quietly and take notes. This exercise will reveal to you things that you may have missed because you are too close to your project. After the presentation, each group will identify the three main things they've learned from hearing others' interpretation of the work, and will lay out their initial ideas on how to address these.
 
 Mockups can include visual layouts, research outlines, narrative prose, and much more besides. You are welcome to use AI tools to help you think these things through - a paradata document will include all prompts and models consulted.   
 
