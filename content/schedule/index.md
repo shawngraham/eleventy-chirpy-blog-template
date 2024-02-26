@@ -7,9 +7,17 @@ title: Schedule
 
 <img src="/assets/images/goodhero.webp" alt="robot archivist" width="200"/>
 
-# Syllabus Week by Week
+# General Structure of Any Given Session
 
-Each week will open with twenty to thirty minutes of freewriting. Try to identify the things that perplexed you in the readings before you came to class, and that you would like to talk about now. Revisit what you wrote in previous classes to connect with what you're thinking now. These pieces of writing will be collected each week into a [digital garden](https://maggieappleton.com/garden-history). At the end of this term we will use this writing in conjunction with an AI to examine what it is we, as a group, think about AI.
+Each session will open with twenty to thirty minutes of **freewriting**. Try to identify the things that perplexed you in the readings before you came to class, and that you would like to talk about now. Revisit what you wrote in previous classes to connect with what you're thinking now. These pieces of writing will be collected each week into a [digital garden](https://maggieappleton.com/garden-history). At the end of this term we will use this writing in conjunction with an AI to examine what it is we, as a group, think about AI. 
+
+With weeks where there are readings, there will be designated students to take us through them. When it is your turn, use the guidance under [Reading Like A Predator](/posts/2024/reading) to direct your attention. Use this to build up your general summary of a piece.
+
+**Everyone** will have already read the piece, so you shouldn't need to go into overly deep detail for your summary. Your job is to draw connections for us to other things you have read/experienced (whether in this class or elsewhere) to highlight the critical elements in your view. Your job is to tell us the questions that occurred to you, the things that didn't make sense to you, the things you think we need to explore as a group. Never say, 'What do you guys think?' Rather, tie the critical elements **expressly** to the _doing of history_. For instance: "When person X discusses the problem of 'hallucination', how does this challenge the authority of a historian? Where are the sources of authority in this context?". 
+
+---
+
+# Schedule
 
 ## Week 1 The Dream of AI
 
@@ -27,17 +35,18 @@ Each week will open with twenty to thirty minutes of freewriting. Try to identif
 
 ### Readings
 
-Karawynn Long. "Language is a Poor Heuristic for Intelligence". Nine Lives blog, June 26, 2023. [link](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for)
+> Tiffany Chan, [Author Function](https://github.com/eltiffster/authorFunction), 'Context' section. 2017.
+<br> Karawynn Long. "Language is a Poor Heuristic for Intelligence". Nine Lives blog, June 26, 2023. [link](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for) <br> Wang, Angie. "Is My Toddler a Stochastic Parrot?". The New Yorker, November 15, 2023. [link](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot.) <br> Underwood, Ted. "Mapping the Latent Spaces of Culture" Startwords 3: Parrots. August 1, 2022. [original](https://startwords.cdh.princeton.edu/issues/3/mapping-latent-spaces/), [archived](https://doi.org/10.5281/ZENODO.6567481). <br> Allison Parish. [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/). 2021 
 
-Wang, Angie. "Is My Toddler a Stochastic Parrot?". The New Yorker, November 15, 2023. [link](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot.)
-
-Underwood, Ted. "Mapping the Latent Spaces of Culture" Startwords 3: Parrots. August 1, 2022. [original](https://startwords.cdh.princeton.edu/issues/3/mapping-latent-spaces/), [archived](https://doi.org/10.5281/ZENODO.6567481).
+Have these read for next week. For the rest of this course, if a reading is given for a particular week, I expect you to have read that work _before_ class.
 
 ---
 
 ## Week 2 Flavours of AI
 
 ...culminating in neural networks, transformers, and attention. We'll start with the cyberneticists. We'll talk about 'intelligence' and what a problem _that_ is. 
+
+
 
 ---
 
@@ -53,19 +62,26 @@ In this week, I want to talk about the longer history of encoding 'information' 
 
 ### Readings
 
-Haigh, Thomas. "Conjoined Twins: Artificial Intelligence and the Invention of Computer Science."" Communications of the ACM 66, no. 6 (May 24, 2023): 33–37. [link](https://doi.org/10.1145/3593007); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3593007).
-
+> Haigh, Thomas. "Conjoined Twins: Artificial Intelligence and the Invention of Computer Science."" Communications of the ACM 66, no. 6 (May 24, 2023): 33–37. [link](https://doi.org/10.1145/3593007); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3593007).
+<br>
 Haigh, Thomas. "There Was No 'First AI Winter.'"" Communications of the ACM 66, no. 12 (November 17, 2023): 35–39. [link](https://doi.org/10.1145/3625833); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3625833).
-
+<br>
 Stephen Wolfram, "What is ChatGPT Doing... And Why Does It Work?". Writings blog, February 14, 2023. [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
-
+<Br>
 Emily Bender, "Thought experiment in the National Library of Thailand. Medium, May 24, 2023. [link](https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83)
 
 ---
 
-## Week 4 Ned Ludd and Fellow Travellers
+## Week 4 Eliza and the Illusion of Intelligence
 
-In this week, we'll look at the Luddites, and consider the recent deployment of AI across various industries, and also, the hidden humans of AI.
+> Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966.
+<br>
+Michelle Huang, [Training an AI Chatbot on my Childhood Journal Entries](https://michellekhuang.com/young-michelle-ai-chatbot/), December 14, 2022.
+<br>
+Mark Marino, ["Can ChatGPT Copy Your Writing Style?"](https://markcmarino.medium.com/can-chatgpt-copy-your-writing-style-fe0236fa247f) Medium, January 24, 2023.
+<br>
+Jason Faone, ['The Jessica Simulation: Love and loss in the age of A.I.' San Francisco Chronicle](https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/)
+
 
 ---
 
@@ -80,11 +96,16 @@ Making sure we know who will present what in weeks 5 - 8.
 
 ## Week 6 The corpuses/corpses of AI
 
-Collections, copyright, intellectural property, labour: the _actual_ dangers of AI
+Collections, copyright, intellectural property, labour: the _actual_ dangers of AI and why the Luddites are _right_.
+
+> Allison Parrish. [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/). 2024
+
 
 ---
 
 ## Week 7 Current Deployments of AI in the GLAM sector
+
+> Daniel Van Strien[Getting Started with Machine Learning and GLAM (Galleries, Libraries, Archives, Museums) Collections](https://blog.archive.org/2023/05/10/getting-started-with-machine-learning-and-glam-galleries-libraries-archives-museums-collections/) 2023. <br> Mathilde Pavis [Digital Heritage Leadership Briefing: Artificial Intelligence](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20Heritage%20Leadership%20Briefing%20-%20Artificial%20Intelligence_English.pdf)
 
 ---
 
@@ -102,7 +123,7 @@ You'll submit your documentation to me each week as per usual as textfiles using
 
 ## Week 8 Hands ON: Training your own GPT 2 model
 
-Using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. 
+Using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. Some of these [datasets](https://data.nls.uk/data/digitised-collections/) might be useful.
 
 What kinds of questions might this approach be useful for? Find a corpus of materials. Document your choices. Document your training. Document your results.
 
