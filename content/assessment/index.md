@@ -7,15 +7,23 @@ title: Assessment
 
 There is any amount of scholarly literature on the fact that grading and grading practices have an impact on how students learn and how they view the materials they come into contact with. Alas, the system we are in requires a letter grade at the end of a course.
 
-You are in your final year. I want this class to be an opportunity for you to swing for the bleachers, to try things out that you might otherwise be inhibited from doing for fear of the impact on your grades if it went wrong ([I have many thoughts on this matter, having written an entire book](https://digitalpressatund.files.wordpress.com/2019/12/failing_gloriously_final.pdf)).
+You are in your final year. I want this class to be an opportunity for you to swing for the bleachers, to try things out that you might otherwise be inhibited from doing for fear of the impact on your grades if it went wrong ([I have many thoughts on this matter, having written an entire book](https://digitalpressatund.files.wordpress.com/2019/12/failing_gloriously_final.pdf)). You don't have to be 'techy' to be part of this class. You **do** have to be open about what has worked, what hasn't, and be willing to explore why that is.
 
-**I value process over product**. This means, the process of learning (composed of experiences that sometimes work, experiences that sometimes don't) is what I'm after. You will notice that the things that you produce in this class are all evidence of your _learning process_. The assessed parts of this course depend on the following elements (notice that the majority of the focus is on things that might be categorized as 'processual'):
+> **I value process over product**. This means, the process of learning (composed of experiences that sometimes work, experiences that sometimes don't) is what I'm after. You will notice that the things that you produce in this class are all evidence of your _learning process_. 
+
+At the same time, I expect that you will bring your best game to class: your writing will be correct, scholarly, and appropriate to the task. It will demonstrate evidence of thoughtful reflection. Punctuation will be used appropriately (and for the love of god, commas are not periods).
+
+**Ok,** I hear you say, **so can I use some kind of AI tool for my writing?** 
+
+This is a reasonable question, but in the context of what I want you to do here, **it would be inappropriate** to use such tools to create work meant to demonstrate your own thought processes. It would also demonstrate that you have largely missed the point of this class. Finally, text-generation is quite possibly the least interesting application of AI. Don't you want superpowers? 
+
+The assessed parts of this course depend on the following elements (notice that the majority of the focus is on things that might be categorized as 'processual'):
 
 + scholarly presence (part 1) 40%
 	+ session leader 
-	+ free writing 
+	+ in-class free writing 
 	+ active engagement with discussions
-	+ hands on exercises
+	+ hands-on exercises
 + project (part 2) 40%
 	+ design document (part 2 meeting 2) 
 	+ paradata in progress (part 2 meeting 4)
@@ -25,13 +33,16 @@ You are in your final year. I want this class to be an opportunity for you to sw
 
 ---
 
+## Presence & Generosity
+
 For 'Scholarly Presence' you and I will discuss this together to arrive at an appropriate grade. You will self-assess your contributions under 'scholarly presence' and indicate in a one-page note what you think is appropriate grade. Your note should open with one of these two lines:
 - 'My presence has made meaningful contributions to this class'
 - 'I have made meaningful contributions but there are reasons why I haven't made more'
 
-I will take your self-assessment into consideration, and if I agree, then that will be your grade. When I have disagreed in the past with a self-assessment, nine times out of ten it has been because I have seen greater value in your contribution that you have.
+We will do this at the end of Term 1. I will take your self-assessment into consideration, and if I agree, then that will be your grade. When I have disagreed in the past with a self-assessment, nine times out of ten it has been because I have seen greater value in your contribution that you have. Sometimes I've had to have a frank talk.
 
 For 'Scholarly Generosity', I will consult your peers on the ways you have been generous in your scholarly identity in our classroom, on a three point scale: 'excellent' | supportive' | 'developing', with examples. For more on such ['generous thinking', see Kathleen Fitzpatrick's introduction to her book of the same name](https://kfitz.info/generous-thinking-introduction/).
+
 
 
 

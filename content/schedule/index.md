@@ -33,9 +33,9 @@ With weeks where there are readings, there will be designated students to take u
 
 ### Activities
 - Intro activity: Have you used GPT or similar, and for what?
-- Lecture/Discussion  
+- Overview of this course and what we're trying to do  
 - Markov Chains (a nice explanation <a href="https://p-mckenzie.github.io/2020/11/03/markov-chains/">here</a>; don't worry about the code section). Let's [play](https://classson.github.io/markov/).
-- Freewriting
+- Setting up [Obsidian.md](https://obsidian.md) for our freewriting/digital garden (we'll want to set up some file-naming conventions)
 
 ### Readings
 
@@ -50,7 +50,12 @@ Have these read for next week. For the rest of this course, if a reading is give
 
 ...culminating in neural networks, transformers, and attention. We'll start with the cyberneticists. We'll talk about 'intelligence' and what a problem _that_ is. 
 
-
+### Activities
+- **Freewriting**: given what we saw last week, and given what you read for this week, where are you starting from? What do you want to know? What questions have already emerged for you? (Write in chunks; interlink as appropriate)
+- **Session Leaders**: take us through your article
+- **Graham**: 'The Last Decade Has Been Wild'
+- **Environment Sweep**: Divide into groups. Each group picks a decade between 1940 and 2020. Compile the bibliography for the 5 most cited papers relating to AI that you can find for each decade. What trends do we spot?
+- **Determine session leaders for next week** (who will take us through the readings for next week)
 
 ---
 
@@ -59,10 +64,12 @@ Have these read for next week. For the rest of this course, if a reading is give
 In this week, I want to talk about the longer history of encoding 'information' or 'knowledge' outside of human brains (and why information might not be the same as knowledge). This'll be a deep dive, back to the origins of writing, but will also include a whirlwind tour of the foundations of digital computing.
 
 ### Activities
-- Freewriting; plant in [our digital garden](https://4805-garden.netlify.app). I'll walk you through this.
-- SG on information theory, Claude Shannon, Alan Turing, and a potted history of information from earliest times
-- Discussion
-- Nicholas Cardini: [AI Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/)
+- **Freewriting**; plant in [our digital garden](https://4805-garden.netlify.app). I'll walk you through this. Ask yourself: what do I really know about how computers work? For me as a historian, does it matter?
+- **SG on information theory**, Claude Shannon, Alan Turing, and a potted history of information from earliest times
+- **Session Leaders** on the Readings
+- **Discussion**
+- [AI Forecasting Challenge](https://nicholas.carlini.com/writing/llm-forecast/) by Nicholas Cardini 
+- **Determine session leaders for next week**
 
 ### Readings
 
@@ -78,7 +85,17 @@ Emily Bender, "Thought experiment in the National Library of Thailand. Medium, M
 
 ## Week 4 Eliza and the Illusion of Intelligence
 
-> Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966.
+You've no doubt heard about the 'imitation game'? That was Turing's answer to the problem of 'how can we know if something is 'intelligent'?'. But Turing actually sidesteps the question... 
+
+### Activities
+- **Freewriting**; plant in [our digital garden](https://4805-garden.netlify.app).
+- **SG on the problem of 'intelligence'** and the troubling connections with, well, everything 
+- **Session Leaders** on the readings
+- **Discussion**
+- **Have a conversation** with [Eliza](https://web.njit.edu/~ronkowit/eliza.html). 
+- **Determine session leaders for next week**
+
+> A. M. Turing (1950) Computing Machinery and Intelligence. Mind 49: 433-460 ([Here's a copy](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf).) <br> Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966.
 <br>
 Michelle Huang, [Training an AI Chatbot on my Childhood Journal Entries](https://michellekhuang.com/young-michelle-ai-chatbot/), December 14, 2022.
 <br>
@@ -86,15 +103,12 @@ Mark Marino, ["Can ChatGPT Copy Your Writing Style?"](https://markcmarino.medium
 <br>
 Jason Faone, ['The Jessica Simulation: Love and loss in the age of A.I.' San Francisco Chronicle](https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/)
 
-
 ---
-
 
 ## Week 5 The OpenAI Civil War of 4.20 pm November 17 2023 - 1.14 am November 22 2023
 
-Competing philosophies, governance, capitalism, and the _imagined_ dangers of AI
+For one strange weekend in November of 2023, the competing philosophies, governance, capitalism, and the _imagined_ dangers of AI dominated the news.
 
-Making sure we know who will present what in weeks 5 - 8.
 
 ---
 
@@ -113,14 +127,14 @@ Collections, copyright, intellectural property, labour: the _actual_ dangers of 
 
 ---
 
-** FALL READING WEEK ** 
+## FALL READING WEEK 
 
-Use this time to get acquainted with what comes next. In theses 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. 
-
+> Use this time to get acquainted with what comes next. In these 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. Depending on how things go, we might try more complex things than are listed here; there will be a bit of flexibility over these next few weeks. Watch for [updates](/). 
+<br><Br>
 It is **the process** which matters, not the final result of 'completion' of a task. The best work will exhibit critical curiosity about each stage in the process, and will chase down the implications. 
-
+<Br><Br>
 You will document your process, your findings, your questions, your concerns, your roadblocks. At all times, you'll be thinking about the bigger picture: what does this mean for the _doing_ of history? What does this mean for the work of a historian? What does this imply for public engagement with history? 
-
+<br><Br>
 You'll submit your documentation to me each week as per usual as textfiles using the markdown. I will plant these in our digital garden.
 
 ---
@@ -145,7 +159,7 @@ Again, document everything.
 
 ## Week 10 Hands ON: CLIP 
 
-We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again.). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
+We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
 
 ---
 
@@ -192,7 +206,7 @@ The paradata that documents the _process_ of the project as it currently stands 
 ---
 
 ## Meeting 5 and 6
-These two meetings, towards the end of the term, will be an opportunity for each group to show off their finished project. Presentations need to carefully situate the process of both _building_ the thing and what the thing _implies_ for the practice of history. 
+These two meetings, towards the end of the term, will be an opportunity for each group to show off their finished project. Presentations need to carefully situate the process of both _building_ the thing and what the thing itself _implies_ for the practice of history. 
 
 ---
 
