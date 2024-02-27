@@ -5,11 +5,15 @@ title: Schedule
 
 ---
 
-<img src="/assets/images/goodhero.webp" alt="robot archivist" width="200"/>
+<img src="/assets/images/goodhero.webp" alt="robot archivist" width="100"/>
 
 # Schedule
 
 On this page you'll find the schedule, readings, links to materials, and general instructions.
+
+Part One is the Fall 2024 Term.
+
+Part Two is the Winter 2025 Term.
 
 ## General Structure of Any Given Session
 
@@ -23,7 +27,9 @@ With weeks where there are readings, there will be designated students to take u
 
 # Part One
 
-## Week 1 The Dream of AI
+If podcasts are your thing, you can supplement pretty much any week below with an episode of [Mystery AI Hype Theater 3000](https://www.dair-institute.org/maiht3k/) by Emily Bender and Alex Hanna. If you do, let me know.
+
+## ☞ Week 1 The Dream of AI
 
 ...and why LLM are models of culture and history first and foremost. You will come to class already having had a look at the readings. In this session I will introduce the main themes of the course, my expectations, we'll find out about your expectations, and we'll play with a simple language model and wonder: how can this represent intelligence? And if it _doesn't_, then what _does_ it represent?
 
@@ -46,9 +52,9 @@ Have these read for next week. For the rest of this course, if a reading is give
 
 ---
 
-## Week 2 Flavours of AI
+## ☞ Week 2 Flavours of AI
 
-...culminating in neural networks, transformers, and attention. We'll start with the cyberneticists. We'll talk about 'intelligence' and what a problem _that_ is. 
+...culminating in neural networks, transformers, and attention. We'll start with the cyberneticists. And the Dartmouth meeting of 1955. We'll talk about 'intelligence' and what a problem _that_ is. 
 
 ### Activities
 - **Freewriting**: given what we saw last week, and given what you read for this week, where are you starting from? What do you want to know? What questions have already emerged for you? (Write in chunks; interlink as appropriate)
@@ -57,9 +63,12 @@ Have these read for next week. For the rest of this course, if a reading is give
 - **Environment Sweep**: Divide into groups. Each group picks a decade between 1940 and 2020. Compile the bibliography for the 5 most cited papers relating to AI that you can find for each decade. What trends do we spot?
 - **Determine session leaders for next week** (who will take us through the readings for next week)
 
+### Extra
+McCarthy, Minksy, Rochester & Shannon. ["A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence"](https://raysolomonoff.com/dartmouth/boxa/dart564props.pdf) (1955)
+
 ---
 
-## Week 3 Earlier Antecedents and A Digression into the Longer History of Representing Information as Bits
+## ☞ Week 3 Earlier Antecedents and A Digression into the Longer History of Representing Information as Bits
 
 In this week, I want to talk about the longer history of encoding 'information' or 'knowledge' outside of human brains (and why information might not be the same as knowledge). This'll be a deep dive, back to the origins of writing, but will also include a whirlwind tour of the foundations of digital computing.
 
@@ -83,18 +92,19 @@ Emily Bender, "Thought experiment in the National Library of Thailand. Medium, M
 
 ---
 
-## Week 4 Eliza and the Illusion of Intelligence
+## ☞ Week 4 Eliza and the Illusion of Intelligence
 
 You've no doubt heard about the 'imitation game'? That was Turing's answer to the problem of 'how can we know if something is 'intelligent'?'. But Turing actually sidesteps the question... 
 
 ### Activities
-- **Freewriting**; plant in [our digital garden](https://4805-garden.netlify.app).
+- **Freewriting**; plant in [our digital garden](https://4805-garden.netlify.app). If you had access to a truly 'intelligent' machine, what would it do for you as a historian? What would it do **to** you as a historian? What are the issues, as you see them?
 - **SG on the problem of 'intelligence'** and the troubling connections with, well, everything 
 - **Session Leaders** on the readings
 - **Discussion**
 - **Have a conversation** with [Eliza](https://web.njit.edu/~ronkowit/eliza.html). 
 - **Determine session leaders for next week**
 
+### Readings
 > A. M. Turing (1950) Computing Machinery and Intelligence. Mind 49: 433-460 ([Here's a copy](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf).) <br> Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966.
 <br>
 Michelle Huang, [Training an AI Chatbot on my Childhood Journal Entries](https://michellekhuang.com/young-michelle-ai-chatbot/), December 14, 2022.
@@ -105,14 +115,25 @@ Jason Faone, ['The Jessica Simulation: Love and loss in the age of A.I.' San Fra
 
 ---
 
-## Week 5 The OpenAI Civil War of 4.20 pm November 17 2023 - 1.14 am November 22 2023
+## ☞ Week 5 The OpenAI Civil War of 4.20 pm November 17 2023 - 1.14 am November 22 2023
 
-For one strange weekend in November of 2023, the competing philosophies, governance, capitalism, and the _imagined_ dangers of AI dominated the news.
+For one strange weekend in November of 2023, the competing philosophies, governance, business models, and _imagined_ dangers of AI dominated the news. The _real_ dangers of AI never got a look in at all...
+
+### Activities
+- **Freewriting**; plant in [our digital garden](https://4805-garden.netlify.app). Quickly search a major daily newspaper (eg, Washington Post, The Guardian) for stories about AI. Characterise the discourse: how is AI framed? Look at Carleton University or the University of Ottawa websites, and do the same thing again. How much trouble are we in?
+- **SG on how we talk about AI and why that matters
+- **Session Leaders** on the readings
+- **Discussion**
+- **Determine session leaders for next week**
+
+### Readings
+
+> Tripp Mickle, Cade Metz, Mike Isaac, and Karen Weise. [Inside OpenAI's Crisis Over the Future of Artificial Intelligence](http://web.archive.org/web/20231209090134/https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html) NYTimes, Dec 9 2023<Br>Singler, Beth. 2020. "The AI Creation Meme: A Case Study of the New Visibility of Religion in Artificial Intelligence Discourse" Religions 11, no. 5: 253. https://doi.org/10.3390/rel11050253<Br>Zuckerman, E. 2024. Two warring visions of AI. [Prospect](https://www.prospectmagazine.co.uk/ideas/technology/64491/two-warring-visions-of-artificial-intelligence-tescreal)<br>Timnit Gebru. 2022. [Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’](http://web.archive.org/web/20221130121414/https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/) 
 
 
 ---
 
-## Week 6 The corpuses/corpses of AI
+## ☞ Week 6 The corpuses/corpses of AI
 
 Collections, copyright, intellectural property, labour: the _actual_ dangers of AI and why the Luddites are _right_.
 
@@ -121,7 +142,7 @@ Collections, copyright, intellectural property, labour: the _actual_ dangers of 
 
 ---
 
-## Week 7 Current Deployments of AI in the GLAM sector
+## ☞ Week 7 Current Deployments of AI in the GLAM sector
 
 > Daniel Van Strien[Getting Started with Machine Learning and GLAM (Galleries, Libraries, Archives, Museums) Collections](https://blog.archive.org/2023/05/10/getting-started-with-machine-learning-and-glam-galleries-libraries-archives-museums-collections/) 2023. <br> Mathilde Pavis [Digital Heritage Leadership Briefing: Artificial Intelligence](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20Heritage%20Leadership%20Briefing%20-%20Artificial%20Intelligence_English.pdf)
 
@@ -139,7 +160,7 @@ You'll submit your documentation to me each week as per usual as textfiles using
 
 ---
 
-## Week 8 Hands ON: Training your own GPT 2 model
+## ☞ Week 8 Hands ON: Training your own GPT 2 model
 
 Using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. Some of these [datasets](https://data.nls.uk/data/digitised-collections/) might be useful.
 
@@ -147,7 +168,7 @@ What kinds of questions might this approach be useful for? Find a corpus of mate
 
 ---
 
-## Week 9 Hands ON: Reading an AI Image
+## ☞ Week 9 Hands ON: Reading an AI Image
 
 Last week, you selected your own data and trained your own LLM to explore and experiment with what patterns you might find, and to think through what it might mean for historical research. This week, we'll work backwards from images to try to understand the underlying dataset. Can we, as Eryk Salvaggio has argued, understand them as *infographics*? And if so, what might we learn about the representation of Canadian history in these models?
 
@@ -157,13 +178,13 @@ Again, document everything.
 
 ---
 
-## Week 10 Hands ON: CLIP 
+## ☞ Week 10 Hands ON: CLIP 
 
 We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
 
 ---
 
-## Week 11 Hands ON: LLMs as Natural Language Text Processors
+## ☞ Week 11 Hands ON: LLMs as Natural Language Text Processors
 
 We'll use OCR software and the [LLM](https://llm.datasette.io) package again to transcribe images of text and handwriting, then correct errors. The LLM will handle error correction and then organizing into structured data.
 
@@ -171,7 +192,7 @@ Or we'll try, at least.
 
 ---
 
-## Week 12 Hands ON: LLM as a Research Assistant
+## ☞ Week 12 Hands ON: LLM as a Research Assistant
 
 We'll look at the GPT-Researcher project, and then develop our own version (again, using the LLM package), aimed at the Chronicling America newspaper database.
 
@@ -183,38 +204,38 @@ Precise meeting dates are to be determined. Meeting 1 _will_ happen during the f
 
 You will arrive in the first session having already built a few things. Over the holiday you should have been sketching out ideas about what you want to do.
 
-## Meeting 1: What is an ethical and useful thing to do with AI in/for History?
+## ☞ Meeting 1: What is an ethical and useful thing to do with AI in/for History?
 This will be an unconference style workshop. You'll throw ideas on the board about what you want to do. There'll be plenty of work to go around; you'll figure out broadly a topic/approach you want to explore, and come together with other students who want to explore the same ideas. The desired outcome here is that three to five teams will emerge. Ideally each team should have someone on it who is game for getting into the digital weeds (ie, at least one of you should be prepared to do a bit of the 'coding', keeping in mind the things I will have been saying the entire time about what that actually _means_). You will leave the meeting fired up about what you want to understand. 
 
 ---
 
-## Meeting 2: Backwards Design
+## ☞ Meeting 2: Backwards Design
 For this meeting, you'll have ready some mockups for the group of what you want to achieve. But you will not present your _own_ work. Rather, we'll spend the first portion of the class looking at one of the other teams' work. You will read their materials and your group will present those instead. You will present what you think the end result of their ideal project implementation will be: we start at the end, and then design backwards to figure out how to get there. Groups whose work is being presented will listen quietly and take notes. This exercise will reveal to you things that you may have missed because you are too close to your project. After the presentation, each group will identify the three main things they've learned from hearing others' interpretation of the work, and will lay out their initial ideas on how to address these.
 
 Mockups can include visual layouts, research outlines, narrative prose, and much more besides. You are welcome to use AI tools to help you think these things through - a paradata document will include all prompts and models consulted.   
 
 ---
 
-## Meeting 3: Work In Progress (mid term check in)
+## ☞ Meeting 3: Work In Progress (mid term check in)
 This meeting will involve each group giving a progress report on how their project is going. Each group should include a discussion of what's going well, what's a current issue that is being solved, new opportunities for the project they've identified, and any issues that present a serious problem to the work. The class as a whole will listen carefully, and suggest issues to think about or possible solutions.
 
 ---
 
-## Meeting 4: Paradata In Progress
+## ☞ Meeting 4: Paradata In Progress
 The paradata that documents the _process_ of the project as it currently stands should be made available to the group before we meet. In this meeting, other groups will try to replicate aspects of your project from the paradata, to see if there are any elements missing or not fully explicated. Paradata should also relate the process of doing whatever it is you're doing with broader discussions (literature) on historical method. You may use AI to reverse outline your work; but again any such use must detail the prompts, models, and iterations in the paradata (you can see things getting recursive quite quickly if you're not careful.) 
 
 ---
 
-## Meeting 5 and 6
+## ☞ Meeting 5 and 6
 These two meetings, towards the end of the term, will be an opportunity for each group to show off their finished project. Presentations need to carefully situate the process of both _building_ the thing and what the thing itself _implies_ for the practice of history. 
 
 ---
 
-## Meeting 7: The Writing Of The Book
+## ☞ Meeting 7: The Writing Of The Book
 This meeting will be a book sprint where we collate our materials into a handbook for historians, and publish online. All projects will also be made available through Github, with appropriate supporting materials. 
 
 ---
 
-All materials are formally due on the last day of term.
+☞ All materials for Part 2 are formally due on the last day of term.
 
 
