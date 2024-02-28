@@ -211,7 +211,7 @@ _This was the interface for the Met Museum's 'Gen Studio' which no longer exists
 
 ## FALL READING WEEK 
 
-> Use this time to get acquainted with what comes next. In these 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. Depending on how things go, we might try more complex things than are listed here; there will be a bit of flexibility over these next few weeks. Watch for [updates](/). 
+Use this time to get acquainted with what comes next. In these 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. Depending on how things go, we might try more complex things than are listed here; there will be a bit of flexibility over these next few weeks. Watch for [updates](/). 
 <br><Br>
 It is **the process** which matters, not the final result of 'completion' of a task. The best work will exhibit critical curiosity about each stage in the process, and will chase down the implications. 
 <Br><Br>
@@ -247,11 +247,11 @@ Again, document everything.
 
 We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
 
-[LLM Demo](https://colab.research.google.com/drive/1vo89c889Qo5ce9NG4Vft9k4uRQQsqh4u#offline=true&sandboxMode=true)
++ Notebook: [LLM Demo](https://colab.research.google.com/drive/1vo89c889Qo5ce9NG4Vft9k4uRQQsqh4u#offline=true&sandboxMode=true)
 
-[ArchaeoCLIP](https://colab.research.google.com/drive/1eYcYeygkoe-4fqLYNZW0JdvxWk_go_56#scrollTo=ofGNuKWYDWCG#offline=true&sandboxMode=true)
++ Notebook: [ArchaeoCLIP](https://colab.research.google.com/drive/1eYcYeygkoe-4fqLYNZW0JdvxWk_go_56#scrollTo=ofGNuKWYDWCG#offline=true&sandboxMode=true)
 
-Advanced: Finetune CLIP on your own data [notebook](https://colab.research.google.com/drive/11uDPQOoW94yROdsVBo3SIy2WYk5T3DVl#offline=true&sandboxMode=true)
++ Advanced: Finetune CLIP on your own data [notebook](https://colab.research.google.com/drive/11uDPQOoW94yROdsVBo3SIy2WYk5T3DVl#offline=true&sandboxMode=true)
 
 Google Colab notebooks are shared with you in 'sandbox' mode. You can save a copy to your own Google drive. You can share the resulting notebooks by clicking on 'file' > 'download' > 'download .ipynb' and then dropping the file into the course share webpage. Add comment cells as appropriate to document your process and thoughts.
 
@@ -265,9 +265,11 @@ We'll use OCR software and the [LLM](https://llm.datasette.io) package again to 
 
 Or we'll try, at least.
 
-[OCR with 'PaddleOCR'](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik#offline=true&sandboxMode=true) (PaddleOCR uses image models trained using CNNs)
++ Notebook: [OCR with 'PaddleOCR'](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik#offline=true&sandboxMode=true) (PaddleOCR uses image models trained using CNNs)
 
-[Image/text to structured data with Mistral-7b](https://colab.research.google.com/drive/1M4YNmCEKxFZzwJRugGBDC_Q5ZoPWNAow#scrollTo=KcgPRn-cR9nu#offline=true&sandboxMode=true). This one was built imagining the task of extracting structured text from resumes. We'll modify it to work with our particular use-case.
++ Notebook: [Image/text to structured data with Mistral-7b](https://colab.research.google.com/drive/1M4YNmCEKxFZzwJRugGBDC_Q5ZoPWNAow#scrollTo=KcgPRn-cR9nu#offline=true&sandboxMode=true). This one was built imagining the task of extracting structured text from resumes. We'll modify it to work with our particular use-case.
+
+As an aside, an interesting thing you can do with structured data, once you have it, is project it into a knowledge graph embedding space. [Here's a case study where we used GPT3 to do that to generate 'hot tips' for the antiquities trade](https://open-research-europe.ec.europa.eu/articles/3-100). 
 
 ---
 
@@ -275,7 +277,7 @@ Or we'll try, at least.
 
 We'll look at the [GPT-Researcher project](https://github.com/assafelovic/gpt-researcher), and then develop our own version (again, using the LLM package), aimed at the Chronicling America newspaper database. Maybe we can build something for use with [Canadiana.ca](https://www.canadiana.ca/).
 
-[LLM as a search interface for Chronicling America](https://colab.research.google.com/drive/1c8ojiPuD6EvvengQCh2WmHuafrO8OaQT#scrollTo=KcgPRn-cR9nu#offline=true&sandboxMode=true) (associated [blog post](https://electricarchaeology.ca/2024/02/06/llm-as-a-discovery-bridge-for-an-api/))
++ Notebook: [LLM as a search interface for Chronicling America](https://colab.research.google.com/drive/1c8ojiPuD6EvvengQCh2WmHuafrO8OaQT#scrollTo=KcgPRn-cR9nu#offline=true&sandboxMode=true) (associated [blog post](https://electricarchaeology.ca/2024/02/06/llm-as-a-discovery-bridge-for-an-api/))
 
 <img src="https://electricarchaeologist.files.wordpress.com/2024/02/screenshot-2024-02-06-at-11.47.14e280afam.png" width=300px align="center"></img>
 
