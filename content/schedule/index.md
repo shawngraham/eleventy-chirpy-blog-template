@@ -23,6 +23,8 @@ With weeks where there are readings, there will be designated students to take u
 
 **Everyone** will have already read the piece, so you shouldn't need to go into overly deep detail for your summary. Your job is to draw connections for us to other things you have read/experienced (whether in this class or elsewhere) to highlight the critical elements in your view. Your job is to tell us the questions that occurred to you, the things that didn't make sense to you, the things you think we need to explore as a group. Never say, 'What do you guys think?' Rather, tie the critical elements **expressly** to the _doing of history_. For instance: "When person X discusses the problem of 'hallucination', how does this challenge the authority of a historian? Where are the sources of authority in this context?". 
 
+See the [updates](/archive) for detailed instructions about free writing, session leading, and other sundry matters.
+
 ---
 
 # Part One
@@ -45,9 +47,12 @@ If podcasts are your thing, you can supplement pretty much any week below with a
 
 ### Readings
 
-> Tiffany Chan, [Author Function](https://github.com/eltiffster/authorFunction), 'Context' section. 2017.
-<br> Karawynn Long. "Language is a Poor Heuristic for Intelligence". Nine Lives blog, June 26, 2023. [link](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for) <br> Wang, Angie. "Is My Toddler a Stochastic Parrot?". The New Yorker, November 15, 2023. [link](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot.) <br> Underwood, Ted. "Mapping the Latent Spaces of Culture" Startwords 3: Parrots. August 1, 2022. [original](https://startwords.cdh.princeton.edu/issues/3/mapping-latent-spaces/), [archived](https://doi.org/10.5281/ZENODO.6567481). <br> Allison Parish. [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/). 2021 
-
+> + Tiffany Chan, [Author Function](https://github.com/eltiffster/authorFunction), 'Context' section. 2017.
+<br> Karawynn Long. "Language is a Poor Heuristic for Intelligence". Nine Lives blog, June 26, 2023. [link](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for) <br> 
+> + Allison Parish. [Language models can only write poetry](https://posts.decontextualize.com/language-models-poetry/). 2021 <br>
+> + Ted Underwood. "Mapping the Latent Spaces of Culture" Startwords 3: Parrots. August 1, 2022. [original](https://startwords.cdh.princeton.edu/issues/3/mapping-latent-spaces/), [archived](https://doi.org/10.5281/ZENODO.6567481). <br>
+> + Anige Wang. "Is My Toddler a Stochastic Parrot?". The New Yorker, November 15, 2023. [link](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot.)
+ 
 Have these read for next week. For the rest of this course, if a reading is given for a particular week, I expect you to have read that work _before_ class.
 
 ---
@@ -60,7 +65,7 @@ Have these read for next week. For the rest of this course, if a reading is give
 - **Freewriting**: given what we saw last week, and given what you read for this week, where are you starting from? What do you want to know? What questions have already emerged for you? (Write in chunks; interlink as appropriate)
 - **Session Leaders**: take us through your article
 - **Graham**: 'The Last Decade Has Been Wild'
-- **Environment Sweep**: Divide into groups. Each group picks a decade between 1940 and 2020. Compile the bibliography for the 5 most cited papers relating to AI that you can find for each decade. What trends do we spot?
+- **Intro to AI for GLAM** A 'Software Carpentries' [lesson on AI](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/); we'll explore their materials (also, since their lesson is a work-in-progress, we'll also contribute by offering feedback; we'll see how far we get)  
 - **Determine session leaders for next week** (who will take us through the readings for next week)
 
 ### Extra
@@ -82,13 +87,14 @@ In this week, I want to talk about the longer history of encoding 'information' 
 
 ### Readings
 
-> Haigh, Thomas. "Conjoined Twins: Artificial Intelligence and the Invention of Computer Science."" Communications of the ACM 66, no. 6 (May 24, 2023): 33–37. [link](https://doi.org/10.1145/3593007); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3593007).
+> + Emily Bender, "Thought experiment in the National Library of Thailand. Medium, May 24, 2023. [link](https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83)<br>
+> + Thomas Haigh. "Conjoined Twins: Artificial Intelligence and the Invention of Computer Science."" Communications of the ACM 66, no. 6 (May 24, 2023): 33–37. [link](https://doi.org/10.1145/3593007); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3593007).
 <br>
-Haigh, Thomas. "There Was No 'First AI Winter.'"" Communications of the ACM 66, no. 12 (November 17, 2023): 35–39. [link](https://doi.org/10.1145/3625833); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3625833).
+> + Thomas Haigh. "There Was No 'First AI Winter.'"" Communications of the ACM 66, no. 12 (November 17, 2023): 35–39. [link](https://doi.org/10.1145/3625833); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3625833).
 <br>
-Stephen Wolfram, "What is ChatGPT Doing... And Why Does It Work?". Writings blog, February 14, 2023. [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+> + Stephen Wolfram, "What is ChatGPT Doing... And Why Does It Work?". Writings blog, February 14, 2023. [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 <Br>
-Emily Bender, "Thought experiment in the National Library of Thailand. Medium, May 24, 2023. [link](https://medium.com/@emilymenonbender/thought-experiment-in-the-national-library-of-thailand-f2bf761a8a83)
+
 
 ---
 
@@ -105,13 +111,16 @@ You've no doubt heard about the 'imitation game'? That was Turing's answer to th
 - **Determine session leaders for next week**
 
 ### Readings
-> A. M. Turing (1950) Computing Machinery and Intelligence. Mind 49: 433-460 ([Here's a copy](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf).) <br> Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966.
+> + Jason Faone, ['The Jessica Simulation: Love and loss in the age of A.I.' San Francisco Chronicle](https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/) 
 <br>
-Michelle Huang, [Training an AI Chatbot on my Childhood Journal Entries](https://michellekhuang.com/young-michelle-ai-chatbot/), December 14, 2022.
+> + Michelle Huang, [Training an AI Chatbot on my Childhood Journal Entries](https://michellekhuang.com/young-michelle-ai-chatbot/), December 14, 2022.
 <br>
-Mark Marino, ["Can ChatGPT Copy Your Writing Style?"](https://markcmarino.medium.com/can-chatgpt-copy-your-writing-style-fe0236fa247f) Medium, January 24, 2023.
+> + Mark Marino, ["Can ChatGPT Copy Your Writing Style?"](https://markcmarino.medium.com/can-chatgpt-copy-your-writing-style-fe0236fa247f) Medium, January 24, 2023.
 <br>
-Jason Faone, ['The Jessica Simulation: Love and loss in the age of A.I.' San Francisco Chronicle](https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/)
+> + A. M. Turing (1950) Computing Machinery and Intelligence. Mind 49: 433-460 ([Here's a copy](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf).) 
+<br> 
+> + Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966. Don't get too caught up in the specifics here - read the companion piece: Ben Tarnoff,[ 'Weizenbaum's Nightmares: how the inventor of the first chatbot turned against AI'](https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai) The Guardian July 25 2023.
+
 
 ---
 
@@ -121,17 +130,23 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 
 ### Activities
 - **Freewriting**; plant in [our digital garden](https://4805-garden.netlify.app). Quickly search a major daily newspaper (eg, Washington Post, The Guardian) for stories about AI. Characterise the discourse: how is AI framed? Look at Carleton University or the University of Ottawa websites, and do the same thing again. How much trouble are we in?
-- **SG on how we talk about AI and why that matters
+- **SG on how we talk about AI and why that matters**
 - **Session Leaders** on the readings
 - **Discussion**
 - **Determine session leaders for next week**
 
 ### Readings
 
-> Tripp Mickle, Cade Metz, Mike Isaac, and Karen Weise. [Inside OpenAI's Crisis Over the Future of Artificial Intelligence](http://web.archive.org/web/20231209090134/https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html) NYTimes, Dec 9 2023<Br>Singler, Beth. 2020. "The AI Creation Meme: A Case Study of the New Visibility of Religion in Artificial Intelligence Discourse" Religions 11, no. 5: 253. https://doi.org/10.3390/rel11050253<Br>Zuckerman, E. 2024. Two warring visions of AI. [Prospect](https://www.prospectmagazine.co.uk/ideas/technology/64491/two-warring-visions-of-artificial-intelligence-tescreal)<br>Timnit Gebru. 2022. [Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’](http://web.archive.org/web/20221130121414/https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/) 
+> + Timnit Gebru. 2022. [Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’](http://web.archive.org/web/20221130121414/https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/) 
+<Br>
+> + Tripp Mickle, Cade Metz, Mike Isaac, and Karen Weise. [Inside OpenAI's Crisis Over the Future of Artificial Intelligence](http://web.archive.org/web/20231209090134/https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html) NYTimes, Dec 9 2023
+<Br>
+> + Beth Singler. 2020. "The AI Creation Meme: A Case Study of the New Visibility of Religion in Artificial Intelligence Discourse" Religions 11, no. 5: 253. https://doi.org/10.3390/rel11050253
+<Br>
+> + Ethan Zuckerman. 2024. Two warring visions of AI. [Prospect](https://www.prospectmagazine.co.uk/ideas/technology/64491/two-warring-visions-of-artificial-intelligence-tescreal)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C00HYB9ql_0?si=AaasbJZE4Tu34JCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ---
 
@@ -139,14 +154,58 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 
 Collections, copyright, intellectural property, labour: the _actual_ dangers of AI and why the Luddites are _right_.
 
-> Allison Parrish. [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/). 2024
+### Activities
+- **Let's play** [Semantle](https://semantle.com/)
+- **Freewriting**. How do you organize information?
+- **SG on datasets, power, & Luddites**
+- **Session Leaders** on the readings
+- **Discussion**
+- **Determine session leaders for next week**
+
+### Readings
+> + Abeba Birhane, Vinay Uday Prabhu, Emmanuel Kahembwe ['Multimodal datasets: misogyny, pornography, and malignant stereotypes'](https://arxiv.org/abs/2110.01963) Arxiv.2110.01963
+<br>
+> + Catherine D'Ignazio and Lauren Klein 'What Gets Counted Counts' [Data Feminism Ch4](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
+<br>
+> + Allison Parrish. [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/). 2024
+<br>
+> + Billy Perrigo ['OpenAI Used Kenyan Workers on Less than $2 Per Hour to Make ChatGPT Less Toxic'](https://time.com/6247678/openai-chatgpt-kenya-workers/)  Time, Jan 18 2023
+<br>
+> + Alex Reisner ['Revealed: The Authors Whose Pirated Books Are Powering Generative AI'](http://web.archive.org/web/20240210023309/https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/) The Atlantic, August 19, 2023 **AND** Alex Reisner ['What I Found in a Database Meta Uses to Train Generative AI'](http://web.archive.org/web/20240125153354/https://www.theatlantic.com/technology/archive/2023/09/books3-ai-training-meta-copyright-infringement-lawsuit/675411/)
+<br>
+> + Eryk Salvaggio ['The Hypothetical Image'](https://cyberneticforests.substack.com/p/no-mourning-for-synthetic-ruins) Cybernetic Forests Nov 12, 2023
 
 
 ---
 
 ## ☞ Week 7 Current Deployments of AI in the GLAM sector
 
-> Daniel Van Strien[Getting Started with Machine Learning and GLAM (Galleries, Libraries, Archives, Museums) Collections](https://blog.archive.org/2023/05/10/getting-started-with-machine-learning-and-glam-galleries-libraries-archives-museums-collections/) 2023. <br> Mathilde Pavis [Digital Heritage Leadership Briefing: Artificial Intelligence](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20Heritage%20Leadership%20Briefing%20-%20Artificial%20Intelligence_English.pdf)
+We take a brisk look at current uses of AI in various parts of the galleries, libraries, archives, and museums sector. What issues do practitioners identify?
+
+![](https://mmlsparkdemo.blob.core.windows.net/met/assets/gen_studio.gif)
+_This was the interface for the Met Museum's 'Gen Studio' which no longer exists, though the source code is at https://github.com/microsoft/GenStudio_.
+
+### Activities
+- **Freewriting** Imagine a local museum. How would you deploy some sort of 'ai' technology to enhance visitor experience? To connect communities? To better understand the collection? Or...?
+- **Session Leaders** on the readings
+- **Discussion**
+- **SG Explains the Plan for the Second Part of this Semester**
+
+> + Christoph Bareither ['Museum-AI Aseemblages - A Conceptual Framework for Ethnographic and Qualitative Research'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 99-113.
+<br>
+> + Baptiste Caramiaux ['AI with Museums and Cultural Heritage'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_pg 117-130
+<br>
+> + Oliver Gustke, Stefan Schaffer, Aaron Ruß ['CHIM-Chatbot in the Museum - Exploring and Explaining Museum Objects with Speech-Based AI'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 257-264
+<br>
+> + Mathilde Pavis [Digital Heritage Leadership Briefing: Artificial Intelligence](https://www.heritagefund.org.uk/sites/default/files/media/attachments/Digital%20Heritage%20Leadership%20Briefing%20-%20Artificial%20Intelligence_English.pdf)
+<br>
+> + Mia Ridge, 'Enriching lives: connecting communities and culture with the help of machines' Keynote for the EuropeanaTech 2023 conference, The Hauge, the Netherlands, October 2023 [slides](https://zenodo.org/records/8429858). Video embedded below.
+<br>
+> + Bruce Wyman [Advanced Prompt Engineering Comparisons](https://github.com/bwyman/Advanced-Prompt-Engineering-Comparisons) (you'll have to explore the folders and .md files) 
+<br>
+> + Daniel Van Strien[Getting Started with Machine Learning and GLAM (Galleries, Libraries, Archives, Museums) Collections](https://blog.archive.org/2023/05/10/getting-started-with-machine-learning-and-glam-galleries-libraries-archives-museums-collections/) 2023. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6OrcliQu7js?si=yUKitjMmgAqpBoo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -159,6 +218,10 @@ It is **the process** which matters, not the final result of 'completion' of a t
 You will document your process, your findings, your questions, your concerns, your roadblocks. At all times, you'll be thinking about the bigger picture: what does this mean for the _doing_ of history? What does this mean for the work of a historian? What does this imply for public engagement with history? 
 <br><Br>
 You'll submit your documentation to me each week as per usual as textfiles using the markdown. I will plant these in our digital garden.
+<br>
+Finally, make yourself acquainted with this document:
+> + Office of the Privacy Commissioner of Canada [Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
+
 
 ---
 
@@ -166,7 +229,7 @@ You'll submit your documentation to me each week as per usual as textfiles using
 
 Using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. Some of these [datasets](https://data.nls.uk/data/digitised-collections/) might be useful.
 
-What kinds of questions might this approach be useful for? Find a corpus of materials. Document your choices. Document your training. Document your results.
+What kinds of questions might this approach be useful for? Find a corpus of materials. Share resources. Document your choices. Document your training. Document your results.
 
 ---
 
@@ -174,7 +237,7 @@ What kinds of questions might this approach be useful for? Find a corpus of mate
 
 Last week, you selected your own data and trained your own LLM to explore and experiment with what patterns you might find, and to think through what it might mean for historical research. This week, we'll work backwards from images to try to understand the underlying dataset. Can we, as Eryk Salvaggio has argued, understand them as *infographics*? And if so, what might we learn about the representation of Canadian history in these models?
 
-Following his [loose methodology](https://cyberneticforests.substack.com/p/how-to-read-an-ai-image) select moments from Canadian history and let's work out what is going on in the dataset that powers [Craiyon](https://www.craiyon.com/) or [NightCafe](https://creator.nightcafe.studio/studio). Other options are possible. Do not pay for anything. 
+Following his [loose methodology](https://www.cyberneticforests.com/news/how-to-read-an-ai-image) select moments from Canadian history and let's work out what is going on in the dataset that powers [Craiyon](https://www.craiyon.com/) or [NightCafe](https://creator.nightcafe.studio/studio). Other options are possible. Do not pay for anything. 
  
 Again, document everything.
 
@@ -184,6 +247,16 @@ Again, document everything.
 
 We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
 
+[LLM Demo](https://colab.research.google.com/drive/1vo89c889Qo5ce9NG4Vft9k4uRQQsqh4u#offline=true&sandboxMode=true)
+
+[ArchaeoCLIP](https://colab.research.google.com/drive/1eYcYeygkoe-4fqLYNZW0JdvxWk_go_56#scrollTo=ofGNuKWYDWCG#offline=true&sandboxMode=true)
+
+Advanced: Finetune CLIP on your own data [notebook](https://colab.research.google.com/drive/11uDPQOoW94yROdsVBo3SIy2WYk5T3DVl#offline=true&sandboxMode=true)
+
+Google Colab notebooks are shared with you in 'sandbox' mode. You can save a copy to your own Google drive. You can share the resulting notebooks by clicking on 'file' > 'download' > 'download .ipynb' and then dropping the file into the course share webpage. Add comment cells as appropriate to document your process and thoughts.
+
+Alternatively, you can give [Teachable Machines](https://teachablemachine.withgoogle.com/train) a whirl: make a historical imagery classifier.
+
 ---
 
 ## ☞ Week 11 Hands ON: LLMs as Natural Language Text Processors
@@ -192,11 +265,19 @@ We'll use OCR software and the [LLM](https://llm.datasette.io) package again to 
 
 Or we'll try, at least.
 
+[OCR with 'PaddleOCR'](https://colab.research.google.com/drive/1TYhLsOYW4nVfX5NP8Fi-O1QU0_ndj_ik#offline=true&sandboxMode=true) (PaddleOCR uses image models trained using CNNs)
+
+[Image/text to structured data with Mistral-7b](https://colab.research.google.com/drive/1M4YNmCEKxFZzwJRugGBDC_Q5ZoPWNAow#scrollTo=KcgPRn-cR9nu#offline=true&sandboxMode=true). This one was built imagining the task of extracting structured text from resumes. We'll modify it to work with our particular use-case.
+
 ---
 
 ## ☞ Week 12 Hands ON: LLM as a Research Assistant
 
-We'll look at the GPT-Researcher project, and then develop our own version (again, using the LLM package), aimed at the Chronicling America newspaper database.
+We'll look at the [GPT-Researcher project](https://github.com/assafelovic/gpt-researcher), and then develop our own version (again, using the LLM package), aimed at the Chronicling America newspaper database. Maybe we can build something for use with [Canadiana.ca](https://www.canadiana.ca/).
+
+[LLM as a search interface for Chronicling America](https://colab.research.google.com/drive/1c8ojiPuD6EvvengQCh2WmHuafrO8OaQT#scrollTo=KcgPRn-cR9nu#offline=true&sandboxMode=true) (associated [blog post](https://electricarchaeology.ca/2024/02/06/llm-as-a-discovery-bridge-for-an-api/))
+
+<img src="https://electricarchaeologist.files.wordpress.com/2024/02/screenshot-2024-02-06-at-11.47.14e280afam.png" width=300px align="center"></img>
 
 ---
 
