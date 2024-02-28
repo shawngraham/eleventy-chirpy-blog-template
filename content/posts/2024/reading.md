@@ -17,20 +17,21 @@ You read like a *predator.* You're after something. How you read the article on 
 
 Four times! And each time I read it, I'm making different kinds of notes because I'm after different things. If I've read a stack of five papers, and I've just been reading the abstract, I now know which ones I want to dive into. My second reading then focusses on those papers, and what they conclude. This helps change my thinking, and makes me realize that perhaps I need to cycle back to some of the other papers, or perhaps dive deeper... reading is cyclical, as an academic. So I'll have a note with the basic information about an article, all of its bibliographic data so I can cite things properly. I might even have a small summary of the paper in that note (see questions below). Then I'll have lots of atomic notes, individual thoughts or observations. These atomic will be tagged with key questions I think they might help answer. These atomic notes will also all contain a link to the original bibliographic note, so I know where I'm drawing from. These atomic notes might also link to other atomic notes, or link to other bibliographic notes, if appropriate.
 
-By the way, it can also be super helpful to make notes on terms, words, concepts, expressions that you don't understand.
+> How I do things is not the only way; you will eventually develop your own style. But seeing as how this is a first year class, I want you to do it my way for now, so that you have a good basis for developing your own emerging style. The key thing is that you're documenting and linking your thinking.
 
-!!! note
-	How I do things is not the only way; you will eventually develop your own style. But seeing as how this is a first year class, I want you to do it my way for now, so that you have a good basis for developing your own emerging style. The key thing is that you're documenting and linking your thinking.
+By the way, it can also be super helpful to make notes on terms, words, concepts, expressions that you don't understand. I want you to [join our reading group on Hypothesis](https://hypothes.is/groups/zLnyJnw2/hist4805a) and use the affordances of that web-overlay to mark up both **this** website and other web resources we encounter in this class. You can highlight things, and you can leave annotations about _why_ you highlighted. Use the S-I-T model for annotations: `S-I-T: one surprising fact or idea, one interesting fact or idea, one troubling or tricky fact or idea.`
+
+**Install Hypothesis** on the Chrome Browser with [this](https://web.hypothes.is/help/installing-the-chrome-extension/); other browsers should use [this](https://web.hypothes.is/help/installing-the-bookmarklet/). Incidentally, Hypothesis is already installed on this site. If you look up to the right hand side you'll see a little arrow icon you can click on to see what annotations have already been made on it.
 
 Finally, look at the footnotes. Look at the references, the bibliography. Who does this work _cite?_ ([Citation is a gift](https://footnotesblogcom.wordpress.com/2018/07/07/guest-post-citation-is-a-gift-punking-accounting-in-hautalk/).) **Add** to your own reading list from such things; drop the citations into places like [scholar.google.com](https://scholar.google.com) (but not *only* google scholar.) Who has *cited* this piece? Look up book reviews, read the subsequent literature... Reading is **hard work**. That's why we're taking it seriously in this course.
 
-## Reading Historical Scholarship
+## Reading Scholarship
 
-Reading historical scholarship is not just about understanding the content, but also figuring out how the thing you're reading is part of a broader dialogue. A useful approach to reading such material, by Danna Agmon. Note that the questions are conceptually very similar to the ones suggested by Evans, below, for readings in the Social Sciences.
+Reading scholarship is not just about understanding the content, but also figuring out how the thing you're reading is part of a broader dialogue. A useful approach to reading such material, by Danna Agmon. Note that the questions are conceptually very similar to the ones suggested by Evans, below, for readings in the Social Sciences.
 
 _I quote directly below from the helpful sheet Agmon makes available [here](https://drive.google.com/file/d/1hunJKCBwzELxmZJb2oaM1W5aGqorasZQ/view)_
 
-THOMAS: A Useful Mnemonic for Reading Historical Scholarship
+THOMAS: A Useful Mnemonic for Reading Historical Scholarship (but useful for other kinds too)
 
 When reading works of historical scholarship, the following mnemonic is a helpful
 tool to keep in mind as you prepare for class. All the questions are key for
@@ -72,3 +73,5 @@ Via Heather K. Evans
 Finally, you can also plug the bibliographic information about the paper into something like [google scholar](https://scholar.google.com) to see how other people have read/reacted to the article. This can give you a sense of how the article fits into the broader scheme of things. Similarly, you can use keywords or key phrases you've identified from the paper as search terms in Google Scholar or [Semantic Scholar](https://www.semanticscholar.org) to identify more literature around a particular problem or interest. You will also want to make use of [JSTOR](https://jstor.org) There are also specialist databases for particular topics so **for the love of all that's holy use the resources in the library**! If you go to the [library guides](https://library.carleton.ca/guides) you'll find so much. Here's the [library guide for the digital humanities](https://library.carleton.ca/guides/subject/digital-humanities). On that page, you'll also find the contact details for the librarian who is responsible for this area - in this case, [Martha Attridge Bufton](https://library.carleton.ca/contact/staff-directory/martha-attridge-bufton). I know Martha; she would love nothing more for you to reach out to her to say, 'can you walk me through how to use some of these resources?'
 
 The question you need to ask yourself is: do I want to do well at university? If so, then take advantage of everything that is on offer. Be proactive, not reactive: make the connection.
+
+_Top photo generated with DALL-E_

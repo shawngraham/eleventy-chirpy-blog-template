@@ -17,6 +17,8 @@ At the same time, I expect that you will bring your best game to class: your wri
 
 This is a reasonable question, but in the context of what I want you to do here, **it would be inappropriate** to use such tools to create work meant to demonstrate your own thought processes. It would also demonstrate that you have largely missed the point of this class. Finally, text-generation is quite possibly the least interesting application of AI. Don't you want superpowers? 
 
+On the other hand, **I would encourage you** to use an LLM to understand how a piece of code works, or to generate your own. You could install [Simon Willison's LLM package](https://llm.datasette.io) or [Ollama](https://ollama.com/) on your own machine and use a locally hosted model to help you '[rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)' ideas. If you _do_ do that, I expect you to fully document the prompts that you use, the resulting code, and that you comment the code thoroughly with your understanding/questions about what the code is doing.
+
 The assessed parts of this course depend on the following elements (notice that the majority of the focus is on things that might be categorized as 'processual'):
 
 + scholarly presence (part 1) 40%
@@ -39,7 +41,9 @@ For 'Scholarly Presence' you and I will discuss this together to arrive at an ap
 - 'My presence has made meaningful contributions to this class'
 - 'I have made meaningful contributions but there are reasons why I haven't made more'
 
-We will do this at the end of Term 1. I will take your self-assessment into consideration, and if I agree, then that will be your grade. When I have disagreed in the past with a self-assessment, nine times out of ten it has been because I have seen greater value in your contribution that you have. Sometimes I've had to have a frank talk.
+'Active engagement with discussions' of course is predicated on being in class, but that doesn't necessarily mean being loud or dominating a discussion. It can be quite, smaller sub-group conversations. It can also be demonstrated through things like annotation and via your free-writing and the way you document your work in the hands-on exercises.
+
+We will assess scholarly presence at the end of Term 1. I will take your self-assessment into consideration, and if I agree, then that will be your grade. When I have disagreed in the past with a self-assessment, nine times out of ten it has been because I have seen greater value in your contribution that you have. Sometimes I've had to have a frank talk.
 
 For 'Scholarly Generosity', I will consult your peers on the ways you have been generous in your scholarly identity in our classroom, on a three point scale: 'excellent' | supportive' | 'developing', with examples. For more on such ['generous thinking', see Kathleen Fitzpatrick's introduction to her book of the same name](https://kfitz.info/generous-thinking-introduction/).
 

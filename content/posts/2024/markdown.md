@@ -1,6 +1,6 @@
 ---
-title: Get yourself a markdown text editor
-date: 2024-02-02
+title: Markdown Text Conventions
+date: 2024-01-05
 image: /assets/images/goodhero.webp
 ---
 
