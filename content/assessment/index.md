@@ -45,9 +45,9 @@ On the other hand, **I would encourage you** to use an LLM to understand how a p
 
 For 'Scholarly Presence' you and I will discuss this together to arrive at an appropriate grade. You will self-assess your contributions under 'scholarly presence' and indicate in a one-page note what you think is appropriate grade. Your note should open with one of these two lines:
 - 'My presence has made meaningful contributions to this class'
-- 'I have made meaningful contributions but there are reasons why I haven't made more'
+- 'I have made meaningful contributions to this class but there are reasons why I haven't made more'
 
-'Active engagement with discussions' of course is predicated on being in class, but that doesn't necessarily mean being loud or dominating a discussion. It can be quite, smaller sub-group conversations. It can also be demonstrated through things like annotation and via your free-writing and the way you document your work in the hands-on exercises.
+'Active engagement with discussions' of course is predicated on being in class, but that doesn't necessarily mean being loud or dominating a discussion. It can be quiet, smaller sub-group conversations. It can also be demonstrated through things like annotation and via your free-writing and the way you document your work in the hands-on exercises.
 
 We will assess scholarly presence at the end of Term 1. I will take your self-assessment into consideration, and if I agree, then that will be your grade. When I have disagreed in the past with a self-assessment, nine times out of ten it has been because I have seen greater value in your contribution that you have. Sometimes I've had to have a frank talk.
 
