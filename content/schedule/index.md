@@ -130,6 +130,8 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 
 > Tripp Mickle, Cade Metz, Mike Isaac, and Karen Weise. [Inside OpenAI's Crisis Over the Future of Artificial Intelligence](http://web.archive.org/web/20231209090134/https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html) NYTimes, Dec 9 2023<Br>Singler, Beth. 2020. "The AI Creation Meme: A Case Study of the New Visibility of Religion in Artificial Intelligence Discourse" Religions 11, no. 5: 253. https://doi.org/10.3390/rel11050253<Br>Zuckerman, E. 2024. Two warring visions of AI. [Prospect](https://www.prospectmagazine.co.uk/ideas/technology/64491/two-warring-visions-of-artificial-intelligence-tescreal)<br>Timnit Gebru. 2022. [Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’](http://web.archive.org/web/20221130121414/https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/) 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C00HYB9ql_0?si=AaasbJZE4Tu34JCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ---
 
