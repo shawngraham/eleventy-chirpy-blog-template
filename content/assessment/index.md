@@ -9,7 +9,7 @@ title: Assessment
 
 _The day I assign a scantron exam is the day you can put me in a box._
 
-[Focussing on grades gets in the way of learning](https://hbsp.harvard.edu/inspiring-minds/why-focusing-on-grades-is-a-barrier-to-learning). Alas, the system we are in requires a letter grade at the end of a course.
+[Focusing on grades gets in the way of learning](https://hbsp.harvard.edu/inspiring-minds/why-focusing-on-grades-is-a-barrier-to-learning). Alas, the system we are in requires a letter grade at the end of a course.
 
 You are in your final year. I want this class to be an opportunity for you to swing for the bleachers, to try things out that you might otherwise be inhibited from doing for fear of the impact on your grades if it went wrong ([I have many thoughts on this matter, having written an entire book](https://digitalpressatund.files.wordpress.com/2019/12/failing_gloriously_final.pdf)). You don't have to be 'techy' to be part of this class. 
 
