@@ -5,7 +5,7 @@ title: Assessment
 
 ---
 
-<img src="/assets/images/nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash"></img>
+<img src="/assets/images/nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash.jpg"></img>
 
 _The day I assign a scantron exam is the day you can put me in a box._
 
