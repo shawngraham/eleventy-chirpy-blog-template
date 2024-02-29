@@ -143,6 +143,8 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 <Br>
 > + Beth Singler. 2020. "The AI Creation Meme: A Case Study of the New Visibility of Religion in Artificial Intelligence Discourse" Religions 11, no. 5: 253. https://doi.org/10.3390/rel11050253
 <Br>
+>+ Annette Vee. 2023. "Leadership and (Open)AI" [Computation & Writing](https://annettevee.substack.com/p/leadership-and-openai)
+<br>
 > + Ethan Zuckerman. 2024. Two warring visions of AI. [Prospect](https://www.prospectmagazine.co.uk/ideas/technology/64491/two-warring-visions-of-artificial-intelligence-tescreal)
 
 
@@ -174,6 +176,8 @@ Collections, copyright, intellectural property, labour: the _actual_ dangers of 
 > + Alex Reisner ['Revealed: The Authors Whose Pirated Books Are Powering Generative AI'](http://web.archive.org/web/20240210023309/https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/) The Atlantic, August 19, 2023 **AND** Alex Reisner ['What I Found in a Database Meta Uses to Train Generative AI'](http://web.archive.org/web/20240125153354/https://www.theatlantic.com/technology/archive/2023/09/books3-ai-training-meta-copyright-infringement-lawsuit/675411/)
 <br>
 > + Eryk Salvaggio ['The Hypothetical Image'](https://cyberneticforests.substack.com/p/no-mourning-for-synthetic-ruins) Cybernetic Forests Nov 12, 2023
+<br>
+> + Annette Vee ['Student Data is the New Oil'](https://annettevee.substack.com/p/when-student-data-is-the-new-oil) Computation & Writing Feb 20 2024
 
 
 ---
