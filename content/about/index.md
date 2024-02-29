@@ -6,6 +6,7 @@ title: About
 
 <img src="/assets/images/robot3.webp" alt="robot archivist" width="200"/>
 
+_A DALL-E generated picture of a robot archivist. Already, such images have gone from being wondrous to something naff_.
 
 A full year seminar at Carleton U, 2024-25
 

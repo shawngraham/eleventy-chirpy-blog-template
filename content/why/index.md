@@ -6,6 +6,8 @@ title: Why
 
 <img src="/assets/images/robot2.webp" alt="robot archivist" width="200"/>
 
+_Another DALL-E generated robot archivist image. The idea of a 'robot' is not a neutral thing..._
+
 
 ## Prologue
 

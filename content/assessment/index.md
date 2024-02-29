@@ -5,6 +5,10 @@ title: Assessment
 
 ---
 
+<img src="/assets/images/nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash"></img>
+
+_The day I assign a scantron exam is the day you can put me in a box._
+
 [Focussing on grades gets in the way of learning](https://hbsp.harvard.edu/inspiring-minds/why-focusing-on-grades-is-a-barrier-to-learning). Alas, the system we are in requires a letter grade at the end of a course.
 
 You are in your final year. I want this class to be an opportunity for you to swing for the bleachers, to try things out that you might otherwise be inhibited from doing for fear of the impact on your grades if it went wrong ([I have many thoughts on this matter, having written an entire book](https://digitalpressatund.files.wordpress.com/2019/12/failing_gloriously_final.pdf)). You don't have to be 'techy' to be part of this class. 
@@ -53,7 +57,8 @@ We will assess scholarly presence at the end of Term 1. I will take your self-as
 
 For 'Scholarly Generosity', I will consult your peers on the ways you have been generous in your scholarly identity in our classroom, on a three point scale: 'excellent' | supportive' | 'developing', with examples. For more on such ['generous thinking', see Kathleen Fitzpatrick's introduction to her book of the same name](https://kfitz.info/generous-thinking-introduction/).
 
-
+_Image is a detail from a photo by <a href="https://unsplash.com/@nguyendhn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nguyen Dang Hoang Nhu</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-qDgTQOYk6B8">Unsplash</a>.
+  
 
 
 

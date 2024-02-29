@@ -7,6 +7,8 @@ title: Schedule
 
 <img src="/assets/images/goodhero.webp" alt="robot archivist" width="100"/>
 
+_Maybe this isn't an image of a robot archivist. Maybe it's a robot student. Still generated with DALL-E though._
+
 # Schedule
 
 On this page you'll find the schedule, readings, links to materials, and general instructions.
@@ -19,7 +21,7 @@ Part Two is the Winter 2025 Term.
 
 Each session will open with twenty to thirty minutes of **freewriting**. Try to identify the things that perplexed you in the readings before you came to class, and that you would like to talk about now. Revisit what you wrote in previous classes to connect with what you're thinking now. These pieces of writing will be collected each week into a [digital garden](https://maggieappleton.com/garden-history). At the end of this term we will use this writing in conjunction with an AI to examine what it is we, as a group, think about AI. 
 
-With weeks where there are readings, there will be designated students to take us through them. When it is your turn, use the guidance under [Reading Like A Predator](/posts/2024/reading) to direct your attention. Use this to build up your general summary of a piece.
+With weeks where there are readings, there will be designated students to take us through them. When it is your turn, use the guidance under [Reading Like A Predator](/posts/2024/reading) and [Leading a Session](/posts/2024/session-leading/) to direct your attention. Use this to build up your general summary of a piece.
 
 **Everyone** will have already read the piece, so you shouldn't need to go into overly deep detail for your summary. Your job is to draw connections for us to other things you have read/experienced (whether in this class or elsewhere) to highlight the critical elements in your view. Your job is to tell us the questions that occurred to you, the things that didn't make sense to you, the things you think we need to explore as a group. Never say, 'What do you guys think?' Rather, tie the critical elements **expressly** to the _doing of history_. For instance: "When person X discusses the problem of 'hallucination', how does this challenge the authority of a historian? Where are the sources of authority in this context?". 
 
