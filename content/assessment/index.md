@@ -35,9 +35,9 @@ That said, I have to put some kind of assessment scheme together. The assessed p
 
 ---
 
-## Process does not mean 'not scholarly'
+## 'Process' does not mean 'not scholarly'
 
-A focus on process does not mean that we become slack in other regards. I expect that you will bring your best game to class: your writing will be correct, scholarly, and appropriate to the task. It will demonstrate evidence of thoughtful reflection. Punctuation will be used appropriately (and for the love of god, commas are not periods).
+A focus on process does not mean that we become slack in other regards. I expect that you will bring your best game to class: your writing will be correct, scholarly, and appropriate to the task. It will demonstrate evidence of thoughtful reflection. Punctuation will be used appropriately (and for the love of god, commas are not periods).[^1] 
 
 **Ok,** I hear you say, **so can I use some kind of AI tool for my writing?** 
 
@@ -47,18 +47,25 @@ On the other hand, **I would encourage you** to use an LLM to understand how a p
 
 ## Presence & Generosity
 
-For 'Scholarly Presence' you and I will discuss this together to arrive at an appropriate grade. You will self-assess your contributions under 'scholarly presence' and indicate in a one-page note what you think is appropriate grade. Your note should open with one of these two lines:
-- 'My presence has made meaningful contributions to this class'
+For ‘Scholarly Presence’ you and I will discuss this together to arrive at an appropriate grade. You will self-assess your contributions under ‘scholarly presence’ and indicate in a one-page note what you think is appropriate grade. Your note should open with one of these two lines: 
+
+- 'My presence has made meaningful contributions to this class' _or_ 
 - 'I have made meaningful contributions to this class but there are reasons why I haven't made more'
 
 'Active engagement with discussions' of course is predicated on being in class, but that doesn't necessarily mean being loud or dominating a discussion. It can be quiet, smaller sub-group conversations. It can also be demonstrated through things like annotation and via your free-writing and the way you document your work in the hands-on exercises.
 
 We will assess scholarly presence at the end of Term 1. I will take your self-assessment into consideration, and if I agree, then that will be your grade. When I have disagreed in the past with a self-assessment, nine times out of ten it has been because I have seen greater value in your contribution that you have. Sometimes I've had to have a frank talk.
 
-For 'Scholarly Generosity', I will consult your peers on the ways you have been generous in your scholarly identity in our classroom, on a three point scale: 'excellent' | supportive' | 'developing', with examples. For more on such ['generous thinking', see Kathleen Fitzpatrick's introduction to her book of the same name](https://kfitz.info/generous-thinking-introduction/).
+For 'Scholarly Generosity', I will consult your peers on the ways you have been generous in your scholarly identity in our classroom, on a three point scale: 'excellent' | supportive' | 'developing', with examples, and will use the median result to inform my view. 
 
-_Image is a detail from a photo by <a href="https://unsplash.com/@nguyendhn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nguyen Dang Hoang Nhu</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-qDgTQOYk6B8">Unsplash</a>.
+(For more on the concepts of ['generous thinking', see Kathleen Fitzpatrick's introduction to her book of the same name](https://kfitz.info/generous-thinking-introduction/)).
+
+_Image is a detail from a photo by <a href="https://unsplash.com/@nguyendhn?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nguyen Dang Hoang Nhu</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-qDgTQOYk6B8">Unsplash</a>._
   
+
+[^1]: Pet peeves: 
++ Do not use 'said' as a definite article ("said author claims"... just use 'the').
++ Things are _based on_, not _based off of_. Think about it.
 
 
 
