@@ -4,7 +4,7 @@ date: 2024-01-02
 image: /assets/images/emptyshelves2.png
 ---
 
-## No one ever taught me this
+# How To Read
 
 Reading an academic article is not like 'regular' reading. You don't start at the beginning and wait for the big reveal at the end.
 

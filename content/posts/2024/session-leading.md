@@ -4,6 +4,8 @@ date: 2024-02-03
 image: /assets/images/rowers.png
 ---
 
+# Leading a Discussion
+
 There is an enormous volume of materials pertinent to our work in this class. I have assigned readings for a given week that I expect will broaden our understanding, providing more context, or perhaps alternative critical views.
 
 But part of the point of a seminar is that we generate understanding through a robust discussion. In which case, you do not necessarily want me to be providing an authoritative read on everything. My job is to set the table, as it were.

@@ -4,6 +4,8 @@ date: 2024-01-05
 image: /assets/images/goodhero.webp
 ---
 
+# Markdown FTW
+
 You'll need a good markdown text editor. Not MS Word! A text editor will let you write without any hidden _cruft_ mucking up your files. You'll use the text editor for the free-writing portion of the fall semester. You will save-as your writing with the `.md` text extension.
 
 I will suggest that you use [Obsidian](https://obsidian.md) but other options are possible; the key thing is that something like Obsidian will let you make internal links from one piece of writing to another (and if you change the text of the link, or the title of the file, Obsidian will update all of your links accordingly).

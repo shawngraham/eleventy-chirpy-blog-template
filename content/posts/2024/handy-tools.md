@@ -4,6 +4,8 @@ date: 2024-01-01
 image: /assets/images/tools.png
 ---
 
+# Tools to make life easier
+
 ## Note Writing
 
 [Obsidian](https://obsidian.md) |

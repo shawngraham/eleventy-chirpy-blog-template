@@ -4,6 +4,8 @@ date: 2024-01-02
 image: /assets/images/notes.png
 ---
 
+# The Rhetorical Précis
+
 _courtesy of [Chad Black](https://chadblack.net/2023SPORT/resources/how%20to%20write%20a%20precis%20and%20memo/), with a few small friendly amendments._
 
 The Rhetorical Précis is a formula designed to help you move beyond simple summary to a more analytical synopsis of a work. As such, the précis, in a compact form, forces you to think about both the content and method of a piece of scholarship. This is very useful in developing an historiographical understanding of the work you are reading, of the connections between works. The formula for the précis is based on a few simple sentences:

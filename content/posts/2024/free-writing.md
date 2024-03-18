@@ -4,6 +4,8 @@ date: 2024-02-04
 image: /assets/images/detail-standsome-worklifestyle.png
 ---
 
+# Freewriting
+
 Each session will open with twenty to thirty minutes of **freewriting**. 
 
 Free writing is unguided in the sense that I will not tell you what, exactly, to write. Rather, it is an opportunity for you to collect your thoughts about the material at hand, the things you've read or watched or listened to over the week that feeds into our session on a given day. In the schedule, I try to give you a bit of a prompt so that you have _some_ direction (one direction? Are they still a thing?), but that is just a suggestion.
