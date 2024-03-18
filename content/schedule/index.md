@@ -156,7 +156,7 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 
 ## ☞ Week 6 The corpuses/corpses of AI
 
-Collections, copyright, intellectural property, labour: the _actual_ dangers of AI and why the Luddites are _right_.
+Collections, copyright, intellectural property, labour: the _actual_ dangers of AI and why the Luddites are _right_. And oh boy 'publish or perish' is *tailor made* for [text generation abuse](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2023&q=%22certainly%2C+here+is%22+-chatgpt+-llm&oq=%22certainly+here+is%22+-chatgpt+-llm). 
 
 ### Activities
 - **Let's play** [Semantle](https://semantle.com/)
@@ -233,7 +233,11 @@ Finally, make yourself acquainted with this document:
 
 ## ☞ Week 8 Hands ON: Training your own GPT 2 model
 
-Using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. Some of these [datasets](https://data.nls.uk/data/digitised-collections/) might be useful.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FyeN5tXMnJ8?si=mIcPG6URbaphK5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+First, we'll try our hand at a version of GPT 2 (from 2019) that can run in a spreadsheet. Windows users will be at an advantage here, so maybe pair up. ["Spreadsheets are all you need.ai"](https://spreadsheets-are-all-you-need.ai/index.html).
+
+Then, using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. Some of these [datasets](https://data.nls.uk/data/digitised-collections/) might be useful.
 
 What kinds of questions might this approach be useful for? Find a corpus of materials. Share resources. Document your choices. Document your training. Document your results.
 
