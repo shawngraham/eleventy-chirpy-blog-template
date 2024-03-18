@@ -6,7 +6,9 @@ image: /assets/images/emptyshelves2.png
 
 # How To Read
 
-Reading an academic article is not like 'regular' reading. You don't start at the beginning and wait for the big reveal at the end.
+Even if you're not leading a discussion, I still expect you to read as much of the material as you can. And why not read collaboratively? If you mark up pdfs and webtext with [hypothesis](https://hypothes.is) while logged into our [reading group](https://hypothes.is/groups/zLnyJnw2/hist4805a) you can help each other by pointing out the interesting/peculiar/hard/easy/puzzling bits...
+
+But 'how to read' is not always self-evident. Reading an academic article is not like 'regular' reading. You don't start at the beginning and wait for the big reveal at the end.
 
 You read like a *predator.* You're after something. How you read the article on one day is *not* how you might read it another, because by then you want something different out of it. Generally, I read like this:
 
