@@ -4,7 +4,7 @@ date: 2024-02-03
 image: /assets/images/rowers.png
 ---
 
-There is an enormous volume of materials that are pertinent to our work in this class. I have assigned readings for a given week that I expect will broaden our understanding, providing more context, or perhaps alternative critical views.
+There is an enormous volume of materials pertinent to our work in this class. I have assigned readings for a given week that I expect will broaden our understanding, providing more context, or perhaps alternative critical views.
 
 But part of the point of a seminar is that we generate understanding through a robust discussion. In which case, you do not necessarily want me to be providing an authoritative read on everything. My job is to set the table, as it were.
 
@@ -24,7 +24,7 @@ I don't normally share materials from the pedagogy world, but it's worth taking 
 
 Notice that the bottom of this pyramid is the recollection of basic facts and concepts. The first year of your university training probably involved this kind of work. Your second year probably involved a lot of the 'understanding' level, while your third probably (ought to have) involved the application or analysis levels. As we go through the readings, I want you to try to generate questions or observations for us that address the 'apply', 'analyze', or 'evaluate' levels. (By the end of this course, you'll be working on hands-on exercises or project development that will approach the 'evaluate' and 'create' levels.)
 
-I do not want 'opinions' or 'criticism' in the sense of going negative. I am looking for you to read like a predator, and engage with the substance of a piece.
+I do not want 'opinions' or 'criticism' in the sense of making negative comments. I am looking for you to read like a predator, and engage with the substance of a piece.
 
 You should aim to hold the spotlight on your reading for 20 to 25 minutes or so. 
 
