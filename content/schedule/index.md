@@ -149,8 +149,8 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 <br>
 > + Ethan Zuckerman. 2024. Two warring visions of AI. [Prospect](https://www.prospectmagazine.co.uk/ideas/technology/64491/two-warring-visions-of-artificial-intelligence-tescreal)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C00HYB9ql_0?si=AaasbJZE4Tu34JCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C00HYB9ql_0?si=AaasbJZE4Tu34JCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ---
 
@@ -233,7 +233,7 @@ Finally, make yourself acquainted with this document:
 
 ## ☞ Week 8 Hands ON: Training your own GPT 2 model
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FyeN5tXMnJ8?si=mIcPG6URbaphK5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FyeN5tXMnJ8?si=mIcPG6URbaphK5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 First, we'll try our hand at a version of GPT 2 (from 2019) that can run in a spreadsheet. Windows users will be at an advantage here, so maybe pair up. ["Spreadsheets are all you need.ai"](https://spreadsheets-are-all-you-need.ai/index.html).
 
