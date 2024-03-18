@@ -46,6 +46,8 @@ If podcasts are your thing, you can supplement pretty much any week below with a
 - Overview of this course and what we're trying to do  
 - Markov Chains (a nice explanation <a href="https://p-mckenzie.github.io/2020/11/03/markov-chains/">here</a>; don't worry about the code section). Let's [play](https://classson.github.io/markov/).
 - Setting up [Obsidian.md](https://obsidian.md) for our freewriting/digital garden (we'll want to set up some file-naming conventions)
+- **Determine session leaders for next week** (who will take us through the readings below for next week)
+
 
 ### Readings
 
@@ -55,7 +57,7 @@ If podcasts are your thing, you can supplement pretty much any week below with a
 > + Ted Underwood. "Mapping the Latent Spaces of Culture" Startwords 3: Parrots. August 1, 2022. [original](https://startwords.cdh.princeton.edu/issues/3/mapping-latent-spaces/), [archived](https://doi.org/10.5281/ZENODO.6567481). <br>
 > + Anige Wang. "Is My Toddler a Stochastic Parrot?". The New Yorker, November 15, 2023. [link](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot.)
  
-Have these read for next week. For the rest of this course, if a reading is given for a particular week, I expect you to have read that work _before_ class.
+I expect everyone to have these read for next week. For the rest of this course, if a reading is given for a particular week, I expect you to have read that work _before_ class. 
 
 ---
 
@@ -70,7 +72,7 @@ Have these read for next week. For the rest of this course, if a reading is give
 - **Intro to AI for GLAM** A 'Software Carpentries' [lesson on AI](https://carpentries-incubator.github.io/machine-learning-librarians-archivists/); we'll explore their materials (also, since their lesson is a work-in-progress, we'll also contribute by offering feedback; we'll see how far we get)  
 - **Determine session leaders for next week** (who will take us through the readings for next week)
 
-### Extra
+### Bonus
 McCarthy, Minksy, Rochester & Shannon. ["A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence"](https://raysolomonoff.com/dartmouth/boxa/dart564props.pdf) (1955)
 
 ---
@@ -94,7 +96,7 @@ In this week, I want to talk about the longer history of encoding 'information' 
 <br>
 > + Thomas Haigh. "There Was No 'First AI Winter.'"" Communications of the ACM 66, no. 12 (November 17, 2023): 35–39. [link](https://doi.org/10.1145/3625833); [our library](https://dl-acm-org.proxy.library.carleton.ca/doi/pdf/10.1145/3625833).
 <br>
-> + Stephen Wolfram, "What is ChatGPT Doing... And Why Does It Work?". Writings blog, February 14, 2023. [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+> + Stephen Wolfram, "What is ChatGPT Doing... And Why Does It Work?". Writings blog, February 14, 2023. [link](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/). _This is a very long piece; Read the sections 'It's Just Adding One Word at a Time';'Where Do the Probabilities Come From?''So...What is ChatGPT Doing, and Why Does It Work'. Go deeper if you're so inclined._
 <Br>
 
 
@@ -119,7 +121,7 @@ You've no doubt heard about the 'imitation game'? That was Turing's answer to th
 <br>
 > + Mark Marino, ["Can ChatGPT Copy Your Writing Style?"](https://markcmarino.medium.com/can-chatgpt-copy-your-writing-style-fe0236fa247f) Medium, January 24, 2023.
 <br>
-> + A. M. Turing (1950) Computing Machinery and Intelligence. Mind 49: 433-460 ([Here's a copy](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf).) 
+> + Alan Turing (1950) Computing Machinery and Intelligence. Mind 49: 433-460 ([Here's a copy](https://redirect.cs.umbc.edu/courses/471/papers/turing.pdf).) 
 <br> 
 > + Joseph Weizenbaum, [ELIZA - A Computer Program for the Study of Natural Language Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168). Communications of the ACM, 1966. Don't get too caught up in the specifics here - read the companion piece: Ben Tarnoff,[ 'Weizenbaum's Nightmares: how the inventor of the first chatbot turned against AI'](https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai) The Guardian July 25 2023.
 
@@ -199,7 +201,7 @@ _This was the interface for the Met Museum's 'Gen Studio' which no longer exists
 
 > + Christoph Bareither ['Museum-AI Aseemblages - A Conceptual Framework for Ethnographic and Qualitative Research'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 99-113.
 <br>
-> + Baptiste Caramiaux ['AI with Museums and Cultural Heritage'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_pg 117-130
+> + Baptiste Caramiaux ['AI with Museums and Cultural Heritage'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 117-130
 <br>
 > + Oliver Gustke, Stefan Schaffer, Aaron Ruß ['CHIM-Chatbot in the Museum - Exploring and Explaining Museum Objects with Speech-Based AI'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 257-264
 <br>
@@ -209,9 +211,9 @@ _This was the interface for the Met Museum's 'Gen Studio' which no longer exists
 <br>
 > + Bruce Wyman [Advanced Prompt Engineering Comparisons](https://github.com/bwyman/Advanced-Prompt-Engineering-Comparisons) (you'll have to explore the folders and .md files) 
 <br>
-> + Daniel Van Strien[Getting Started with Machine Learning and GLAM (Galleries, Libraries, Archives, Museums) Collections](https://blog.archive.org/2023/05/10/getting-started-with-machine-learning-and-glam-galleries-libraries-archives-museums-collections/) 2023. 
+> + Daniel Van Strien [Getting Started with Machine Learning and GLAM (Galleries, Libraries, Archives, Museums) Collections](https://blog.archive.org/2023/05/10/getting-started-with-machine-learning-and-glam-galleries-libraries-archives-museums-collections/) 2023. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6OrcliQu7js?si=yUKitjMmgAqpBoo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/6OrcliQu7js?si=yUKitjMmgAqpBoo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ---
 
@@ -295,7 +297,7 @@ We'll look at the [GPT-Researcher project](https://github.com/assafelovic/gpt-re
 
 # Part Two (Winter 2025)
 
-Precise meeting dates are to be determined. Meeting 1 _will_ happen during the first week of the winter term.
+Precise meeting dates are to be determined. Meeting 1 _will_ happen during the first week of the winter term. In the intervals between formal meetings, your groups will use our scheduled class time to come together to work. That can happen in the class space, or elsewhere as suits you. You can of course come together more often as you need to do.
 
 You will arrive in the first session having already built a few things. Over the holiday you should have been sketching out ideas about what you want to do.
 
@@ -305,7 +307,7 @@ This will be an unconference style workshop. You'll throw ideas on the board abo
 ---
 
 ## ☞ Meeting 2: Backwards Design
-For this meeting, you'll have ready some mockups for the group of what you want to achieve. But you will not present your _own_ work. Rather, we'll spend the first portion of the class looking at one of the other teams' work. You will read their materials and your group will present those instead. You will present what you think the end result of their ideal project implementation will be: we start at the end, and then design backwards to figure out how to get there. Groups whose work is being presented will listen quietly and take notes. This exercise will reveal to you things that you may have missed because you are too close to your project. After the presentation, each group will identify the three main things they've learned from hearing others' interpretation of the work, and will lay out their initial ideas on how to address these.
+For this meeting, you'll have ready some mockups for the group of what you want to achieve. But you will not present your _own_ work. Rather, you'll spend the first portion of the class looking at one of the other teams' work. You will read their materials and your group will present those instead. You will present what you think the end result of their ideal project implementation will be: we start at the end, and then design backwards to figure out how to get there. You'll highlight potentials and possible perils. Groups whose work is being presented will listen quietly and take notes. This exercise will reveal to you things that you may have missed because you are too close to your project. After the presentation, each group will identify the three main things they've learned from hearing others' interpretation of the work, and will lay out their initial ideas on how to address these.
 
 Mockups can include visual layouts, research outlines, narrative prose, and much more besides. You are welcome to use AI tools to help you think these things through - a paradata document will include all prompts and models consulted.   
 
@@ -317,7 +319,7 @@ This meeting will involve each group giving a progress report on how their proje
 ---
 
 ## ☞ Meeting 4: Paradata In Progress
-The paradata that documents the _process_ of the project as it currently stands should be made available to the group before we meet. In this meeting, other groups will try to replicate aspects of your project from the paradata, to see if there are any elements missing or not fully explicated. Paradata should also relate the process of doing whatever it is you're doing with broader discussions (literature) on historical method. You may use AI to reverse outline your work; but again any such use must detail the prompts, models, and iterations in the paradata (you can see things getting recursive quite quickly if you're not careful.) 
+The paradata that documents the _process_ of the project as it currently stands should be made available to the group before we meet. In this meeting, other groups will try to replicate aspects of your project from the paradata, to see if there are any elements missing or not fully explicated. Paradata should also relate the process of doing whatever it is you're doing with broader discussions (literature) on historical method. You may use AI to [reverse outline your work](https://writing.wisc.edu/handbook/reverseoutlines/); a reverse outline helps you see if you've missed important connective tissue in what you are creating. This is just a suggestion. But again any such use must detail the prompts, models, and iterations in the paradata (you can see things getting recursive quite quickly if you're not careful.) 
 
 ---
 

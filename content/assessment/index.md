@@ -37,7 +37,7 @@ That said, I have to put some kind of assessment scheme together. The assessed p
 
 ## 'Process' does not mean 'not scholarly'
 
-A focus on process does not mean that we become slack in other regards. I expect that you will bring your best game to class: your writing will be correct, scholarly, and appropriate to the task. It will demonstrate evidence of thoughtful reflection. Punctuation will be used appropriately (and for the love of god, commas are not periods).[^1] 
+A focus on process does not mean that we become slack in other regards. I expect that you will bring your best game to class: your writing will be correct, scholarly, and appropriate to the task. It will demonstrate evidence of thoughtful reflection. Punctuation will be used appropriately (and for the love of god, commas are not periods). [^1] 
 
 **Ok,** I hear you say, **so can I use some kind of AI tool for my writing?** 
 
