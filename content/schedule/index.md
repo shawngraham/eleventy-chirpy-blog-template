@@ -143,6 +143,8 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 
 > + Timnit Gebru. 2022. [Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’](http://web.archive.org/web/20221130121414/https://www.wired.com/story/effective-altruism-artificial-intelligence-sam-bankman-fried/) 
 <Br>
+> + Timnit Gebru and ÉP Torres. 2024 The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence. _First Monday_ DOI: [https://doi.org/10.5210/fm.v29i4.13636](https://doi.org/10.5210/fm.v29i4.13636).
+<br>
 > + Tripp Mickle, Cade Metz, Mike Isaac, and Karen Weise. [Inside OpenAI's Crisis Over the Future of Artificial Intelligence](http://web.archive.org/web/20231209090134/https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html) NYTimes, Dec 9 2023
 <Br>
 > + Beth Singler. 2020. "The AI Creation Meme: A Case Study of the New Visibility of Religion in Artificial Intelligence Discourse" Religions 11, no. 5: 253. https://doi.org/10.3390/rel11050253
@@ -202,6 +204,8 @@ _This was the interface for the Met Museum's 'Gen Studio' which no longer exists
 > + Christoph Bareither ['Museum-AI Aseemblages - A Conceptual Framework for Ethnographic and Qualitative Research'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 99-113.
 <br>
 > + Baptiste Caramiaux ['AI with Museums and Cultural Heritage'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 117-130
+<br>
+> + J. Famularo and R. Denton. 2023 Memory Institutions Meet AI: Lessons from Critical Technology Discourse. International Journal for Digital Art History (9): 3.02-3.27. DOI: [https://doi.org/10.11588/dah.2023.9.91468](https://doi.org/10.11588/dah.2023.9.91468).
 <br>
 > + Oliver Gustke, Stefan Schaffer, Aaron Ruß ['CHIM-Chatbot in the Museum - Exploring and Explaining Museum Objects with Speech-Based AI'](https://www.transcript-verlag.de/media/pdf/24/88/01/oa9783839467107.pdf) In _AI in Museums_ pg 257-264
 <br>
