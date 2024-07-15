@@ -241,7 +241,7 @@ Finally, make yourself acquainted with this document:
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FyeN5tXMnJ8?si=mIcPG6URbaphK5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-First, we'll try our hand at a version of GPT 2 (from 2019) that can run in a spreadsheet. Windows users will be at an advantage here, so maybe pair up. ["Spreadsheets are all you need.ai"](https://spreadsheets-are-all-you-need.ai/index.html).
+First, we'll try our hand at a version of GPT 2 (from 2019) that can run in a spreadsheet. Windows users will be at an advantage here, so maybe pair up. ["Spreadsheets are all you need.ai"](https://github.com/ianand/spreadsheets-are-all-you-need/releases/tag/v0.5.0). **Click on the link for the Excel binary to download the spreadsheet; also watch the video**. 
 
 Then, using [Google Colab](https://colab.research.google.com) and following along with [this tutorial from the Programming Historian](https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt) by former Carleton student [Chantal Brousseau](https://chantalbrousseau.xyz/) you will train and interrogate your own large language model. Some of these [datasets](https://data.nls.uk/data/digitised-collections/) might be useful.
 
