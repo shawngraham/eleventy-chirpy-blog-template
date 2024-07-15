@@ -16,6 +16,12 @@ You don't need to write in joined-up polished prose. Notes, bullet points, strea
 
 Maybe try to identify the things that perplexed you in the readings before you came to class, and that you would like to talk about now. You can identify things in the readings for a given week that you would like to raise in discussion. You can revisit what you wrote in previous classes to connect with what you're thinking now. Take a look at people's annotations made using Hypothesis - each annotation can be permalinked, so you can copy that link into your notes. You can look at our evolving digital garden and riff on (and link to) others' thoughts from previous weeks.
 
+### Free Writing is Human Writing
+
+**No AI to be used at this stage in the process, ok?** 
+
+Otherwise, what's the point?
+
 ### Use Obsidian 
 
 I am going to request that you use the [Obsidian](https://obsidian.md) note taking app to handle your free-writing for a couple of reasons.

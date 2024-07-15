@@ -16,7 +16,7 @@ image: /assets/images/tools.png
 ## Dictation & Transcription
 
 [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) |
-[Whispher AI for Transcription, Colab Notebook](https://colab.research.google.com/github/XLabCU/useful_notebooks/blob/main/Google_Colab_Notebook_for_Transcription_using_Whisper_AI.ipynb) by Eric Hobson
+[Whisper AI for Transcription, Colab Notebook](https://colab.research.google.com/github/XLabCU/useful_notebooks/blob/main/Google_Colab_Notebook_for_Transcription_using_Whisper_AI.ipynb) by Eric Hobson
 
 ## Bibliography Management
 
@@ -33,6 +33,7 @@ image: /assets/images/tools.png
 
 [Simon Willison's LLM](https://llm.datasette.io) |
 [Ollama](https://ollama.com/)
+[Jan](https://jan.ai/)
 
 ## Computing Power
 
