@@ -12,7 +12,7 @@ module.exports = {
     // Author name, shown in left sidebar, and used in JSON-LD
     author: "Prof. Shawn Graham",
     // Site description, shown below site image (optional)
-    description: "Fall/Winter 2023/2024",
+    description: "Fall/Winter 2024/2025",
     // OpenGraph default image, in case you don't have an `image`
     // set in your Markdown frontmatter; relevant for social
     // sharing.
