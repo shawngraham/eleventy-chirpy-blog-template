@@ -27,6 +27,11 @@ With weeks where there are readings, there will be designated students to take u
 
 See the [updates](/archive) for detailed instructions about free writing, session leading, and other sundry matters.
 
+> Hey! _I hear you._ Isn't AI kinda naff, now? _Maybe. The hype bubble has certainly been something to behold_. So should we still care about all this? _When bubbles deflate, [what remains still needs to be reckoned with](https://arxiv.org/abs/2408.08778v1), so read the piece by Widder & Hicks soon!_
+
+Widder, DG and Hicks, M. 2024 Watching the Generative AI Hype Bubble Deflate. arxiv.[link](https://doi.org/10.48550/arXiv.2408.08778).
+
+
 ---
 
 # Part One
