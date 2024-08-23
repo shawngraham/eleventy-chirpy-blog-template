@@ -50,7 +50,7 @@ If podcasts are your thing, you can supplement pretty much any week below with a
 - Intro activity: Have you used GPT or similar, and for what?
 - Overview of this course and what we're trying to do  
 - Markov Chains (a nice explanation <a href="https://p-mckenzie.github.io/2020/11/03/markov-chains/">here</a>; don't worry about the code section). Let's [play](https://classson.github.io/markov/).
-- Setting up [Obsidian.md](https://obsidian.md) for our freewriting/digital garden (we'll want to set up some file-naming conventions)
+- Setting up [Obsidian.md](https://obsidian.md) for our freewriting/digital garden (we'll want to set up some file-naming conventions). You might prefer [Tangent](https://www.tangentnotes.com/) as a note making app better than Obsidian, since it has a more restricted feature set and, perhaps, gentler learning curve. The main thing is: having a plain text note making app that allows you to generate connections
 - **Determine session leaders for next week** (who will take us through the readings below for next week)
 
 
