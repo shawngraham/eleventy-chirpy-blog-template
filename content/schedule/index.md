@@ -266,6 +266,8 @@ Again, document everything.
 
 ## ☞ Week 10 Hands ON: CLIP 
 
+(addition, Sept 19: This piece by Arnold & Tilton [on computer vision and the MET collection is worth talking about](https://direct.mit.edu/books/oa-monograph/5674/chapter/4361344/Opening-the-Archive-Visual-Search-and-Discovery-of) )
+
 We'll use the [LLM](https://llm.datasette.io) package to install the CLIP multi-modal combined image and text model (into [Colab](https://colab.research.google.com) again). We'll then create a corpus of historical imagery and _project_ these images into the model, to create a kind of image search engine. Then we'll use Salvaggio's method to explore the results.
 
 + Notebook: [LLM Demo](https://colab.research.google.com/drive/1vo89c889Qo5ce9NG4Vft9k4uRQQsqh4u#offline=true&sandboxMode=true)
