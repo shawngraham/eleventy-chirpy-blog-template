@@ -255,6 +255,10 @@ Then, using [Google Colab](https://colab.research.google.com) and following alon
 
 What kinds of questions might this approach be useful for? Find a corpus of materials. Share resources. Document your choices. Document your training. Document your results.
 
+Are you building a [God, Intern, Cog, or Toy?](https://www.dbreunig.com/2024/10/18/the-3-ai-use-cases-gods-interns-and-cogs.html)/
+
+Are you making a [home cooked meal?](https://electricarchaeology.ca/2024/09/27/home-cooked-software-for-the-archaeologist-or-historian/)
+
 ---
 
 ## ☞ Week 9 Hands ON: Reading an AI Image (Nov 18)
