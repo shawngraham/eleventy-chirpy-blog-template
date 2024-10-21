@@ -38,7 +38,7 @@ Widder, DG and Hicks, M. 2024 Watching the Generative AI Hype Bubble Deflate. ar
 
 If podcasts are your thing, you can supplement pretty much any week below with an episode of [Mystery AI Hype Theater 3000](https://www.dair-institute.org/maiht3k/) by Emily Bender and Alex Hanna. If you do, let me know.
 
-## ☞ Week 1 The Dream of AI
+## ☞ Week 1 The Dream of AI (Sept 9)
 
 ...and why LLM are models of culture and history first and foremost. You will come to class already having had a look at the readings. In this session I will introduce the main themes of the course, my expectations, we'll find out about your expectations, and we'll play with a simple language model and wonder: how can this represent intelligence? And if it _doesn't_, then what _does_ it represent?
 
@@ -66,7 +66,7 @@ I expect everyone to have these read for next week. For the rest of this course,
 
 ---
 
-## ☞ Week 2 Flavours of AI
+## ☞ Week 2 Flavours of AI (Sept 16)
 
 ...culminating in neural networks, transformers, and attention. We'll start with the cyberneticists. And the Dartmouth meeting of 1955. We'll talk about 'intelligence' and what a problem _that_ is. 
 
@@ -82,7 +82,7 @@ McCarthy, Minksy, Rochester & Shannon. ["A Proposal for the Dartmouth Summer Res
 
 ---
 
-## ☞ Week 3 Earlier Antecedents and A Digression into the Longer History of Representing Information as Bits
+## ☞ Week 3 Earlier Antecedents and A Digression into the Longer History of Representing Information as Bits (Sept 23)
 
 In this week, I want to talk about the longer history of encoding 'information' or 'knowledge' outside of human brains (and why information might not be the same as knowledge). This'll be a deep dive, back to the origins of writing, but will also include a whirlwind tour of the foundations of digital computing.
 
@@ -107,7 +107,7 @@ In this week, I want to talk about the longer history of encoding 'information' 
 
 ---
 
-## ☞ Week 4 Eliza and the Illusion of Intelligence
+## ☞ Week 4 Eliza and the Illusion of Intelligence (Sept 30)
 
 You've no doubt heard about the 'imitation game'? That was Turing's answer to the problem of 'how can we know if something is 'intelligent'?'. But Turing actually sidesteps the question... 
 
@@ -133,7 +133,7 @@ You've no doubt heard about the 'imitation game'? That was Turing's answer to th
 
 ---
 
-## ☞ Week 5 The OpenAI Civil War of 4.20 pm November 17 2023 - 1.14 am November 22 2023
+## ☞ Week 5 The OpenAI Civil War of 4.20 pm November 17 2023 - 1.14 am November 22 2023 (Oct 7)
 
 For one strange weekend in November of 2023, the competing philosophies, governance, business models, and _imagined_ dangers of AI dominated the news. The _real_ dangers of AI never got a look in at all...
 
@@ -163,7 +163,25 @@ For one strange weekend in November of 2023, the competing philosophies, governa
 
 ---
 
-## ☞ Week 6 The corpuses/corpses of AI
+## FALL READING WEEK 
+
+Edit: The one-two combo of Thanksgiving and then the Fall Reading Week really throws us out of kilter!
+
+Use this time to get acquainted with what comes next. In these 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. Depending on how things go, we might try more complex things than are listed here; there will be a bit of flexibility over these next few weeks. Watch for [updates](/). 
+<br><Br>
+It is **the process** which matters, not the final result of 'completion' of a task. The best work will exhibit critical curiosity about each stage in the process, and will chase down the implications. 
+<Br><Br>
+You will document your process, your findings, your questions, your concerns, your roadblocks. At all times, you'll be thinking about the bigger picture: what does this mean for the _doing_ of history? What does this mean for the work of a historian? What does this imply for public engagement with history? 
+<br><Br>
+You'll submit your documentation to me each week as per usual as textfiles using the markdown. I will plant these in our digital garden.
+<br>
+Finally, make yourself acquainted with this document:
+> + Office of the Privacy Commissioner of Canada [Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
+
+
+---
+
+## ☞ Week 6 The corpuses/corpses of AI (Oct 28)
 
 Collections, copyright, intellectural property, labour: the _actual_ dangers of AI and why the Luddites are _right_. And oh boy 'publish or perish' is *tailor made* for [text generation abuse](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2023&q=%22certainly%2C+here+is%22+-chatgpt+-llm&oq=%22certainly+here+is%22+-chatgpt+-llm). 
 
@@ -174,6 +192,7 @@ Collections, copyright, intellectural property, labour: the _actual_ dangers of 
 - **Session Leaders** on the readings
 - **Discussion**
 - **Determine session leaders for next week**
+- **Let's make an image dataset** and then use **PixPlot** to visualize it [via this notebook](https://colab.research.google.com/drive/13WI68IS7CzDc2FEai5h98RstOlCt4zrO). Document where & how you decide to collect images. What are you baking into the dataset and its potential uses?
 
 ### Readings
 > + Abeba Birhane, Vinay Uday Prabhu, Emmanuel Kahembwe ['Multimodal datasets: misogyny, pornography, and malignant stereotypes'](https://arxiv.org/abs/2110.01963) Arxiv.2110.01963
@@ -184,7 +203,7 @@ Collections, copyright, intellectural property, labour: the _actual_ dangers of 
 <br>
 > + Billy Perrigo ['OpenAI Used Kenyan Workers on Less than $2 Per Hour to Make ChatGPT Less Toxic'](https://time.com/6247678/openai-chatgpt-kenya-workers/)  Time, Jan 18 2023
 <br>
-> + Alex Reisner ['Revealed: The Authors Whose Pirated Books Are Powering Generative AI'](http://web.archive.org/web/20240210023309/https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/) The Atlantic, August 19, 2023 **AND** Alex Reisner ['What I Found in a Database Meta Uses to Train Generative AI'](http://web.archive.org/web/20240125153354/https://www.theatlantic.com/technology/archive/2023/09/books3-ai-training-meta-copyright-infringement-lawsuit/675411/)
+> + Alex Reisner ['Revealed: The Authors Whose Pirated Books Are Powering Generative AI'](https://archive.ph/g17UA) The Atlantic, August 19, 2023 **AND** Alex Reisner ['What I Found in a Database Meta Uses to Train Generative AI'](https://archive.ph/GdGmo)
 <br>
 > + Eryk Salvaggio ['The Hypothetical Image'](https://cyberneticforests.substack.com/p/no-mourning-for-synthetic-ruins) Cybernetic Forests Nov 12, 2023
 <br>
@@ -193,9 +212,9 @@ Collections, copyright, intellectural property, labour: the _actual_ dangers of 
 
 ---
 
-## ☞ Week 7 Current Deployments of AI in the GLAM sector
+## ☞ Week 7 Current Deployments of AI in the GLAM sector (Nov 4)
 
-We take a brisk look at current uses of AI in various parts of the galleries, libraries, archives, and museums sector. What issues do practitioners identify?
+We take a brisk look at current uses of AI in various parts of the galleries, libraries, archives, and museums sector. What issues do practitioners identify? Check out the FF2024 conference [live-posting on Mastdon](https://hcommons.social/tags/FF2024) and look carefully at the posts, pictures, and shared resources. What animates all these?
 
 ![](https://mmlsparkdemo.blob.core.windows.net/met/assets/gen_studio.gif)
 _This was the interface for the Met Museum's 'Gen Studio' which no longer exists, though the source code is at https://github.com/microsoft/GenStudio_.
@@ -226,23 +245,7 @@ _This was the interface for the Met Museum's 'Gen Studio' which no longer exists
 
 ---
 
-## FALL READING WEEK 
-
-Use this time to get acquainted with what comes next. In these 'hands on' sessions, we will as a group try our hands at a variety of approaches. Some of these might work easily, some might take more effort. Sometimes you might need to set yourself up in small teams, sometimes you might be able to work entirely on your own. It will depend on the constellation of interests and abilities in the classroom. For each session, I will set the scene for what we are trying to do, I will draw attention to the elements that I think are most interesting, and I will provide whatever other resources might be necessary. Depending on how things go, we might try more complex things than are listed here; there will be a bit of flexibility over these next few weeks. Watch for [updates](/). 
-<br><Br>
-It is **the process** which matters, not the final result of 'completion' of a task. The best work will exhibit critical curiosity about each stage in the process, and will chase down the implications. 
-<Br><Br>
-You will document your process, your findings, your questions, your concerns, your roadblocks. At all times, you'll be thinking about the bigger picture: what does this mean for the _doing_ of history? What does this mean for the work of a historian? What does this imply for public engagement with history? 
-<br><Br>
-You'll submit your documentation to me each week as per usual as textfiles using the markdown. I will plant these in our digital garden.
-<br>
-Finally, make yourself acquainted with this document:
-> + Office of the Privacy Commissioner of Canada [Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
-
-
----
-
-## ☞ Week 8 Hands ON: Training your own GPT 2 model
+## ☞ Week 8 Hands ON: Training your own GPT 2 model (Nov 11)
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FyeN5tXMnJ8?si=mIcPG6URbaphK5w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
@@ -254,7 +257,7 @@ What kinds of questions might this approach be useful for? Find a corpus of mate
 
 ---
 
-## ☞ Week 9 Hands ON: Reading an AI Image
+## ☞ Week 9 Hands ON: Reading an AI Image (Nov 18)
 
 Last week, you selected your own data and trained your own LLM to explore and experiment with what patterns you might find, and to think through what it might mean for historical research. This week, we'll work backwards from images to try to understand the underlying dataset. Can we, as Eryk Salvaggio has argued, understand them as *infographics*? And if so, what might we learn about the representation of Canadian history in these models?
 
@@ -264,7 +267,7 @@ Again, document everything.
 
 ---
 
-## ☞ Week 10 Hands ON: CLIP 
+## ☞ Week 10 Hands ON: CLIP (Nov 25)
 
 (addition, Sept 19: This piece by Arnold & Tilton [on computer vision and the MET collection is worth talking about](https://direct.mit.edu/books/oa-monograph/5674/chapter/4361344/Opening-the-Archive-Visual-Search-and-Discovery-of) )
 
@@ -282,7 +285,7 @@ Alternatively, you can give [Teachable Machines](https://teachablemachine.withgo
 
 ---
 
-## ☞ Week 11 Hands ON: LLMs as Natural Language Text Processors
+## ☞ Week 11 Hands ON: LLMs as Natural Language Text Processors (Dec 2)
 
 We'll use OCR software and the [LLM](https://llm.datasette.io) package again to transcribe images of text and handwriting, then correct errors. The LLM will handle error correction and then organizing into structured data.
 
@@ -296,7 +299,7 @@ As an aside, an interesting thing you can do with structured data, once you have
 
 ---
 
-## ☞ Week 12 Hands ON: LLM as a Research Assistant
+## ☞ Week 12 Hands ON: LLM as a Research Assistant (Dec 6 - Friday!!)
 
 We'll look at the [GPT-Researcher project](https://github.com/assafelovic/gpt-researcher), and then develop our own version (again, using the LLM package), aimed at the Chronicling America newspaper database. Maybe we can build something for use with [Canadiana.ca](https://www.canadiana.ca/).
 
