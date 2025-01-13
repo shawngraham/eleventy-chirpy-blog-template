@@ -322,6 +322,12 @@ You will arrive in the first session having already built a few things. Over the
 ## ☞ Meeting 1: What is an ethical and useful thing to do with AI in/for History? January 6
 This will be an unconference style workshop. You'll throw ideas on the board about what you want to do. There'll be plenty of work to go around; you'll figure out broadly a topic/approach you want to explore, and come together with other students who want to explore the same ideas. The desired outcome here is that three to five teams will emerge. Ideally each team should have someone on it who is game for getting into the digital weeds (ie, at least one of you should be prepared to do a bit of the 'coding', keeping in mind the things I will have been saying the entire time about what that actually _means_). You will leave the meeting fired up about what you want to understand. 
 
+And watch this:
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/olUQ28tFdfM?si=30w-PddSbSKfLB3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## ☞ Meeting 2: Backwards Design ~ January 20
