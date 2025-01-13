@@ -319,38 +319,43 @@ Precise meeting dates are to be determined. Meeting 1 _will_ happen during the f
 
 You will arrive in the first session having already built a few things. Over the holiday you should have been sketching out ideas about what you want to do.
 
-## ☞ Meeting 1: What is an ethical and useful thing to do with AI in/for History?
+## ☞ Meeting 1: What is an ethical and useful thing to do with AI in/for History? January 6
 This will be an unconference style workshop. You'll throw ideas on the board about what you want to do. There'll be plenty of work to go around; you'll figure out broadly a topic/approach you want to explore, and come together with other students who want to explore the same ideas. The desired outcome here is that three to five teams will emerge. Ideally each team should have someone on it who is game for getting into the digital weeds (ie, at least one of you should be prepared to do a bit of the 'coding', keeping in mind the things I will have been saying the entire time about what that actually _means_). You will leave the meeting fired up about what you want to understand. 
 
 ---
 
-## ☞ Meeting 2: Backwards Design
+## ☞ Meeting 2: Backwards Design ~ January 20
 For this meeting, you'll have ready some mockups for the group of what you want to achieve. But you will not present your _own_ work. Rather, you'll spend the first portion of the class looking at one of the other teams' work. You will read their materials and your group will present those instead. You will present what you think the end result of their ideal project implementation will be: we start at the end, and then design backwards to figure out how to get there. You'll highlight potentials and possible perils. Groups whose work is being presented will listen quietly and take notes. This exercise will reveal to you things that you may have missed because you are too close to your project. After the presentation, each group will identify the three main things they've learned from hearing others' interpretation of the work, and will lay out their initial ideas on how to address these.
 
 Mockups can include visual layouts, research outlines, narrative prose, and much more besides. You are welcome to use AI tools to help you think these things through - a paradata document will include all prompts and models consulted.   
 
 ---
 
-## ☞ Meeting 3: Work In Progress (mid term check in)
+## ☞ Meeting 3: Work In Progress (mid term check in) ~ February 10
 This meeting will involve each group giving a progress report on how their project is going. Each group should include a discussion of what's going well, what's a current issue that is being solved, new opportunities for the project they've identified, and any issues that present a serious problem to the work. The class as a whole will listen carefully, and suggest issues to think about or possible solutions.
 
 ---
 
-## ☞ Meeting 4: Paradata In Progress
+## Feb 24: No meeting with me, but maybe for all of you
+This meeting I want you to convene on your own to work toegher, because coding/building is more fun when you're in the same space. Go to Olivers or someplace fun. Build! Help each other! (I cannot join you this day because of prior commitments).
+
+---
+
+## ☞ Meeting 4: Paradata In Progress ~ March 3
 The paradata that documents the _process_ of the project as it currently stands should be made available to the group before we meet. In this meeting, other groups will try to replicate aspects of your project from the paradata, to see if there are any elements missing or not fully explicated. Paradata should also relate the process of doing whatever it is you're doing with broader discussions (literature) on historical method. You may use AI to [reverse outline your work](https://writing.wisc.edu/handbook/reverseoutlines/); a reverse outline helps you see if you've missed important connective tissue in what you are creating. This is just a suggestion. But again any such use must detail the prompts, models, and iterations in the paradata (you can see things getting recursive quite quickly if you're not careful.) 
 
 ---
 
-## ☞ Meeting 5 and 6
-These two meetings, towards the end of the term, will be an opportunity for each group to show off their finished project. Presentations need to carefully situate the process of both _building_ the thing and what the thing itself _implies_ for the practice of history. 
+## ☞ Meeting 5 and 6 ~ March 17, March 31 
+These two meetings, towards the end of the term, will be an opportunity for each group to show off their finished project. Presentations need to carefully situate the process of both _building_ the thing and what the thing itself _implies_ for the practice of history. Depending on how things are going, we might collapse this into one meeting. Stay tuned.
 
 ---
 
-## ☞ Meeting 7: The Writing Of The Book
-This meeting will be a book sprint where we collate our materials into a handbook for historians, and publish online. All projects will also be made available through Github, with appropriate supporting materials. 
+## ☞ Meeting 7: The Writing Of The Book ~ April 7
+This meeting will be an opportunity to reflect on where we started, how far we've come, and what you've accomplished. We might do a book sprint where we collate our materials into a handbook for historians, and publish online. All projects will also be made available through Github, with appropriate supporting materials. 
 
 ---
 
-☞ All materials for Part 2 are formally due on the last day of term.
+☞ All materials for Part 2 are formally due on the last day of term: April 8th
 
 
